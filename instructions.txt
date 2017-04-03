@@ -1,0 +1,9 @@
+//instructions
+
+1     scrape and populate json with  "price","title","href","make"
+		**pass options -> (postedToday, minPrice, maxPrice, make, minyear, maxMiles, onlyAutoTran) 
+			to craigslistScrape.js
+
+2.    take json file and pass to fixjson.js to correct href's
+
+3.    pass resulting file to clImg.js to add images array and text data 
