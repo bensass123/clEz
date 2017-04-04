@@ -5,6 +5,8 @@ var fs = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
 
+var jsonArray = [];
+
 //example URL		https://charlotte.craigslist.org/search/cta?srchType=T&bundleDuplicates=1&search_distance=60&postal=28277&min_price=3000&max_price=5500&auto_make_model=honda&min_auto_year=1999&max_auto_miles=160000&auto_title_status=1
 
 
@@ -20,14 +22,9 @@ var clSearch = (postedToday, minPrice, maxPrice, make, minyear, maxMiles, onlyAu
 }
 
 
-// .result-image 
-// children span .result-price
-
-// result-image gallery
-
 var doSearch = (postedToday, minPrice, maxPrice, make, minyear, maxMiles, onlyAutoTran) => {
 
-		var jsonArray = [];
+		
 		var url = clSearch(postedToday, minPrice, maxPrice, make, minyear, maxMiles, onlyAutoTran);
 
 		request(url, function(error, response, html){
@@ -48,21 +45,22 @@ var doSearch = (postedToday, minPrice, maxPrice, make, minyear, maxMiles, onlyAu
 
 
 		        for (var i = 0; i <test.length; i++) {
-		        	var testA = test[0]['children'];
+		        	var testA = test[i]['children'];
+		        	console.log(testA);
 		        	// console.log(testA);
 		        	for (var x = 1; x <testA.length; x+=2) {
 		        		href = testA[x]['children'][3]['children'][5]['attribs']['href'];
 		        		title = testA[x]['children'][3]['children'][5]['children'][0].data;
 		        		price = testA[x]['children'][3]['children'][7]['children'][1]['children'][0].data;
 		        		json = {price: price, title: title, href: href, make: make}
-		        		console.log(json);
+		        		// console.log(json);
 		        		jsonArray.push(json);
 		        	}
 		        }
 		 }
 
 	})
-	setTimeout(function(){createFile(make + 'Initial.json', jsonArray)}, 3000);
+	setTimeout(function(){createFile(make + 'Initial.json', jsonArray)}, 10000);
 }
 
 
@@ -72,6 +70,7 @@ function createFile(filename, json){
 		    console.log('File successfully written! - Check your project directory for the output file');
 
 		});
+		console.log(json.length);
 		console.log('createfilerun');
 }
 

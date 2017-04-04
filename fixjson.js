@@ -7,7 +7,7 @@ var h = require('./' + make + 'Initial.json');
 var fs = require('fs');
 
 var array = [];
-
+var newone;
 
 
 
@@ -24,7 +24,7 @@ var array = [];
 
 }
 
-var newone;
+
 
  doit = () => {
 	for (var i = 0; i < h.length; i++){
