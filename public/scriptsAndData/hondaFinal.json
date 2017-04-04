@@ -445,20 +445,7 @@
         "price": "$5200",
         "title": "2006 Honda Civic HYBRID",
         "href": "https://charlotte.craigslist.org/cto/6015425261.html",
-        "make": "Honda",
-        "pics": {
-            "index": 21,
-            "array": [
-                "https://images.craigslist.org/00q0q_2JC9RA4y6I5_600x450.jpg",
-                "https://images.craigslist.org/00U0U_duzuLIO6igP_600x450.jpg",
-                "https://images.craigslist.org/00L0L_5PrjzJdLnrv_600x450.jpg",
-                "https://images.craigslist.org/00c0c_h7SJs2DCKqW_600x450.jpg",
-                "https://images.craigslist.org/00404_4ObGwXXvliV_600x450.jpg",
-                "https://images.craigslist.org/00b0b_idBMFSyqcYt_600x450.jpg",
-                "https://images.craigslist.org/00V0V_gf6qMvSiaLc_600x450.jpg"
-            ],
-            "text": "\n96,000 miles CD Player, Michelins, Extra clean car,  Cold AC new battery NO CHECK ENGINE LIGHT,  Asking $ 5200.00    "
-        }
+        "make": "Honda"
     },
     {
         "price": "$3000",
@@ -516,18 +503,7 @@
         "price": "$5000",
         "title": "2005 Honda civic",
         "href": "https://charlotte.craigslist.org/cto/6051143135.html",
-        "make": "Honda",
-        "pics": {
-            "index": 26,
-            "array": [
-                "https://images.craigslist.org/00t0t_16cK27vFLKv_600x450.jpg",
-                "https://images.craigslist.org/00y0y_7JOusLtIlCm_600x450.jpg",
-                "https://images.craigslist.org/01616_j8YNa1tn3Hp_600x450.jpg",
-                "https://images.craigslist.org/00d0d_2UreLIMuVbW_600x450.jpg",
-                "https://images.craigslist.org/00R0R_dgFUgsGDR3i_600x450.jpg"
-            ],
-            "text": "\n2005 Honda Civic for trade or 5k$"
-        }
+        "make": "Honda"
     },
     {
         "price": "$3700",
@@ -551,16 +527,7 @@
         "price": "$3495",
         "title": "2000 honda accord coupe",
         "href": "https://charlotte.craigslist.org/cto/6006126049.html",
-        "make": "Honda",
-        "pics": {
-            "index": 30,
-            "array": [
-                "https://images.craigslist.org/00303_hMwFSrWzgn5_600x450.jpg",
-                "https://images.craigslist.org/00n0n_qrhwLycbNw_600x450.jpg",
-                "https://images.craigslist.org/00W0W_bZOiKaHWsqV_600x450.jpg"
-            ],
-            "text": "\n00 Honda Accord, car runs good, pass inspection, no cel on.good paint, ac,heat, power windows sunroof. Call Bill@ "
-        }
+        "make": "Honda"
     },
     {
         "price": "$3200",
@@ -591,27 +558,33 @@
         "price": "$3000",
         "title": "S2000 shell AP1 60k miles Clear title",
         "href": "https://charlotte.craigslist.org/cto/6035236360.html",
-        "make": "Honda"
+        "make": "Honda",
+        "pics": {
+            "index": 33,
+            "array": [
+                "https://images.craigslist.org/00y0y_3jNRJzMQ4j3_600x450.jpg",
+                "https://images.craigslist.org/00202_jQbeeyViFHr_600x450.jpg",
+                "https://images.craigslist.org/00X0X_iRQBxkxbwqC_600x450.jpg",
+                "https://images.craigslist.org/00g0g_38QbaJno2Mg_600x450.jpg",
+                "https://images.craigslist.org/00404_58neJCP573z_600x450.jpg",
+                "https://images.craigslist.org/00q0q_cLuneRphPiO_600x450.jpg",
+                "https://images.craigslist.org/00q0q_cLuneRphPiO_600x450.jpg",
+                "https://images.craigslist.org/00808_9hZjNWs7sEN_600x450.jpg",
+                "https://images.craigslist.org/00808_9hZjNWs7sEN_600x450.jpg",
+                "https://images.craigslist.org/00i0i_bOHNz2GS4Qh_600x450.jpg",
+                "https://images.craigslist.org/01717_uCIjFIQkf0_600x450.jpg",
+                "https://images.craigslist.org/00y0y_80N52lU6PFU_600x450.jpg",
+                "https://images.craigslist.org/00F0F_lXeUslM2LKd_600x450.jpg",
+                "https://images.craigslist.org/00v0v_lBGlaaCMait_600x450.jpg",
+                "https://images.craigslist.org/01212_5tuHmhd8IJo_600x450.jpg"
+            ],
+            "text": "\n2003 Honda S2000 Shell. 60k miles. Clear title. Car is as is in pictures. I have a full"
+        }
     },
     {
         "price": "$5450",
         "title": "2003 Accord 5 speed",
         "href": "https://charlotte.craigslist.org/cto/6022890027.html",
-        "make": "Honda",
-        "pics": {
-            "index": 34,
-            "array": [
-                "https://images.craigslist.org/00q0q_jNgq3Ul0y0e_600x450.jpg",
-                "https://images.craigslist.org/00g0g_hahfL1yRMZ7_600x450.jpg",
-                "https://images.craigslist.org/00505_1gWh1gZb5uS_600x450.jpg",
-                "https://images.craigslist.org/00p0p_5FDgJogYM8U_600x450.jpg",
-                "https://images.craigslist.org/01414_7vItL6QMcam_600x450.jpg",
-                "https://images.craigslist.org/00c0c_40E2jQLemGm_600x450.jpg",
-                "https://images.craigslist.org/00c0c_14NkqhnhIFy_600x450.jpg",
-                "https://images.craigslist.org/00v0v_eMha3q0zgCX_600x450.jpg",
-                "https://images.craigslist.org/00G0G_j34bdFTh6SU_600x450.jpg"
-            ],
-            "text": "\nThe is a very clean, locally owned, rust free car. It is very reliable, fun, and fuel efficient\". Currently the mileage is 138,000. I had to move up into something bigger and would like to pass it on. The interior is black cloth with a sunroof and power options. I have updated the radio with a Bluetooth and navigation one. All the Power windows, locks and the sunroof work as they should. The ac is cold and the heat is hot. I have had zero issues with it. The spark plugs have just  been replaced along with all fluids and the tires are brand new. Please come test drive it and see what you think. I do have a little room to work on the price.    "
-        }
+        "make": "Honda"
     }
 ]

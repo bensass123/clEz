@@ -25,12 +25,16 @@
       position: absolute; 
       right: 0;
     }
+    body {
+      background-image: url("../public/images/wood.jpg");
+    }
 
 </style>
 </head>
 
 
 <body>
+
 <div id='others'></div>
 <div id='removeSearch'></div>
 <!-- <iframe src='https://charlotte.craigslist.org/cto/6071769831.html' height=800" align="bottom" id='bottomFrame'></iframe> -->
@@ -102,7 +106,7 @@
       });
 
     $('#others').append(subaru);
-    
+
     var nissan = $('<button/>',
       {
           class: 'btn btn-md btn-primary others',
