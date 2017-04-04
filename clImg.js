@@ -28,7 +28,8 @@ doit = (url, index) => {
 			current = script[2].children[0].data;
 			picsJson = JSON.parse(current.substr(19).slice(0, -5));
 			text = $('#postingbody')[0]['children'][2].data;
-			console.log(text);
+			console.log($('.attrgroup'));
+			// console.log(text);
 			tempPics = [];
 			tempText = '';
 			for (var i = 0; i < picsJson.length; i++) {
@@ -80,3 +81,5 @@ setTimeout(function(){
 	}, 6000)
 
 setTimeout(createFile, 15000)
+
+setTimeout(function(){console.log(h20)}, 8000)

@@ -14,7 +14,7 @@ var fs = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
 
-var make = 'honda';
+var make = 'nissan';
 
 //this will need to be called after the first createFile
 //this will need to be called after the second createFile
@@ -31,8 +31,8 @@ var newone;
 var tempPics = [];
 var picsArr = [];
 
-//setup empty text arrays
-var text;
+
+var text, miles;
 
 var json = {index: 0, array: [], text : ''};
 
@@ -64,7 +64,7 @@ doSearch = (postedToday, minPrice, maxPrice, make, minyear, maxMiles, onlyAutoTr
 		        var $ = cheerio.load(html);
 		        // console.log(html)
 
-		        var price, title, href;
+		        var price, title, href, miles;
 		        var json = { price: '', title: '', href: '', make: ''};
 
 		        var test = $('div.content#sortable-results').children('ul.rows');
@@ -133,6 +133,7 @@ doImg = (url, index) => {
 			current = script[2].children[0].data;
 			picsJson = JSON.parse(current.substr(19).slice(0, -5));
 			text = $('#postingbody')[0]['children'][2].data;
+			// miles = $('.attrgroup')[1]['children'][8].innerText;
 			// console.log(text);
 			tempPics = [];
 			tempText = '';
@@ -188,23 +189,23 @@ function createFile(){
 
 
 var init = () => {
-	doSearch(false, 3000, 5500, 'honda', 1999, 160000, false);
+	doSearch(false, 3000, 5500, make, 1999, 140000, false);
 	setTimeout(function(){doit();
 		// console.log(jsonArray);
 		console.log('do search done');}, 5000);
 
 	setTimeout(function(){getAllImgs();
 		// console.log(jsonArray);
-		console.log('doit done');}, 15000);
+		console.log('doit done');}, 10000);
 
 	setTimeout(function(){fixImgs();
 		console.log('get all imgs done');
 		console.log('get imgs done');
-		console.log('fix imgs done');}, 25000);	
+		console.log('fix imgs done');}, 15000);	
 
 	setTimeout(function(){createFile();
 		// console.log(jsonArray);
-		console.log('create file done');}, 35000);
+		console.log('create file done');}, 20000);
 	console.log(jsonArray.length)
 }
 

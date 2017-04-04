@@ -1,0 +1,225 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>mah pretties</title>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> -->
+
+
+
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- styles -->
+<!-- <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=a14d0c65f7978c2bbc0d780a3ea7b7be">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/postings.css?v=63bbc475efc3c2ac752f91fbc037b762">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet.css?v=a3659216b188171f9645f20cd0b4e60e"> -->
+<style>
+    .btn {
+        margin-top: 7px;
+        margin-bottom: 7px;
+    }
+
+    #others{
+      position: absolute; 
+      right: 0;
+    }
+
+</style>
+</head>
+
+
+<body>
+<div id='others'></div>
+<div id='removeSearch'></div>
+<!-- <iframe src='https://charlotte.craigslist.org/cto/6071769831.html' height=800" align="bottom" id='bottomFrame'></iframe> -->
+
+<script id="cl-template" type="text/x-handlebars-template">
+    <div class='container'>
+      <div class='row'>
+       <div class=col-xs-12>    
+        <h3>{{ price }}</h3>
+        <h2>{{ title }}</h2>
+        <p id='text'>{{ pics.text }}</p>
+        {{#each pics.array}}
+        <img src= {{ this }} alt=''>
+        {{/each}}
+        <a href= {{ href }} style='font-size: 20px; text-align:center;'>{{ href }}</a>
+        <br><br>
+       </div>
+      </div> 
+</script>
+
+
+<div id ='results'></div>
+
+<div class='container'>
+    <div class="row">
+      <div class="col-xs-4">
+        <div id='samePage'></div>
+      </div>
+      <div class="col-xs-4">
+        <div id='clLinks'></div>
+      </div>
+      <div class="col-xs-4">  
+        <div id='deletes'></div>
+      </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.6/handlebars.min.js"></script>
+
+<script>
+    var data;
+
+  $.getJSON( "scriptsAndData/nissanFinal.json", function( carData ) {
+        data = carData;
+    });
+
+  var bArr = [];
+  var b, fillDiv, del;
+
+    fillit = (obj) => {
+        var source   = $("#cl-template").html();
+        var template = Handlebars.compile(source);
+        var html = template(obj);
+        $('#results').html(html);
+    }
+
+
+
+  $( document ).ready(function() {
+    var nissan = $('<button/>',
+      {
+          class: 'btn btn-md btn-primary others',
+          text: 'NISSANS!',
+          click: function (event) { 
+              window.location.href='/nissan'     
+      }
+
+      });
+
+    $('#others').append(nissan);
+
+    var mazda = $('<button/>',
+      {
+          class: 'btn btn-md btn-primary others',
+          text: 'MAZDAS!',
+          click: function (event) { 
+
+              window.location.href='/mazda'    
+          }
+
+      });
+
+    $('#others').append(mazda);
+
+    var honda = $('<button/>',
+      {
+          class: 'btn btn-md btn-primary others',
+          text: 'HONDAS!',
+          click: function (event) { 
+              window.location.href='/honda';
+            }
+
+      });
+    
+    $('#others').append(honda);
+
+    var toyota = $('<button/>',
+      {
+          class: 'btn btn-md btn-primary others',
+          text: 'TOYOTA!',
+          click: function (event) { 
+              window.location.href='/toyota';
+            }
+
+      });
+    
+    $('#others').append(toyota);
+
+        setTimeout(function(){
+    for (var i = 0; i <data.length; i++){
+
+
+            fillDiv = $('<button/>',
+            {
+                class: 'btn btn-sm btn-primary',
+                id: 'fillButton_' + i,
+                text: data[i].title + '--' + data[i].price,
+                'data-index': i,
+                'data-href': data[i].href,
+                click: function (event) { 
+                    var ind = $(this).data('index');
+                    fillit(data[ind]);
+                    console.log(data[ind].title);
+                    setTimeout(function(){$('html, body').animate({scrollTop: '0px'}, 300);}, 200);
+                }
+            });
+
+      b = $('<button/>',
+        {
+                class: 'btn btn-warning btn-sm',
+          id: 'button_' + i,
+            text: data[i].title + '--' + data[i].price + ' NEW WINDOW',
+            'data-href': data[i].href,
+            click: function (event) { 
+              event.preventDefault();
+              event.stopPropagation();
+              window.open($(this).data('href'), '_blank');
+            }
+        });
+
+        del = $('<button/>',
+        {
+                class: 'btn btn-danger btn-sm',
+          id: 'delete_' + i,
+            text: ' X ' + data[i].title,
+            'data-delete': '#button_' + i,
+                'data-filldelete': '#fillButton_' + i,
+            click: function () { 
+              var d = $(this).data('delete');
+                    var fillD = $(this).data('filldelete');
+              $(d).remove();
+                    $(fillD).remove();
+              $(this).remove();
+            }
+        });
+
+            $('#samePage').append(fillDiv);
+            $('#samePage').append('<br>');
+        $('#clLinks').append(b);
+            $('#clLinks').append('<br>');
+        $('#deletes').append(del);
+            $('#deletes').append('<br>');
+    }
+
+        remove = $('<button/>',
+            {
+                class: 'btn btn-danger btn-sm',
+                id: 'remove',
+                text: ' X ',
+                click: function () { 
+                    $('#results').empty();
+                }
+            });
+    $('#removeSearch').append(remove);
+    },2000)
+  });
+
+
+
+
+
+</script>
+
+</body>
+
+
+
+</html>
+
+
+
