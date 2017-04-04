@@ -14,7 +14,10 @@ var fs = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
 
-var make = 'nissan';
+var make = process.argv[2];
+
+//capitalize the first letter of make
+make = make.charAt(0).toUpperCase() + make.slice(1);
 
 //this will need to be called after the first createFile
 //this will need to be called after the second createFile
@@ -177,7 +180,7 @@ fixImgs = () => {
 function createFile(){
 		fs.appendFile(make + 'Final.json', JSON.stringify(jsonArray, null, 4), function(err){
 
-		    console.log('File successfully written! - Check your project directory for the output file');
+		    console.log(make + ' File successfully written! - Check your project directory for the output file');
 
 		});
 		console.log('createfilerun');

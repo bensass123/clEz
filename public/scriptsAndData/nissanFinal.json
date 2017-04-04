@@ -1,11 +1,54 @@
 [
     {
+        "price": "$5500",
+        "title": "Nissan altima 2007",
+        "href": "https://charlotte.craigslist.org/cto/6048075105.html",
+        "make": "Nissan",
+        "pics": {
+            "index": 0,
+            "array": [
+                "https://images.craigslist.org/00L0L_4zd5X5bhcPs_600x450.jpg",
+                "https://images.craigslist.org/00D0D_i4weqcvfo5H_600x450.jpg"
+            ],
+            "text": "\n2007 nissan altima 2.5 v6 auto pw pl ps pm drives like new 140000 mile call "
+        }
+    },
+    {
+        "price": "$4300",
+        "title": "2004 Nissan Pathfinder Se good miles!",
+        "href": "https://charlotte.craigslist.org/cto/6037961367.html",
+        "make": "Nissan",
+        "pics": {
+            "index": 1,
+            "array": [
+                "https://images.craigslist.org/00O0O_3Ns82lZnr6r_600x450.jpg",
+                "https://images.craigslist.org/00V0V_7I0xJ6ISpLi_600x450.jpg"
+            ],
+            "text": "\nnice suv"
+        }
+    },
+    {
+        "price": "$3750",
+        "title": "2001 Nissan Pathfinder LE",
+        "href": "https://charlotte.craigslist.org/cto/6073490074.html",
+        "make": "Nissan",
+        "pics": {
+            "index": 2,
+            "array": [
+                "https://images.craigslist.org/00808_inNtg56L2sw_600x450.jpg",
+                "https://images.craigslist.org/00t0t_lIkOHGU7OWg_600x450.jpg",
+                "https://images.craigslist.org/00b0b_5DFXJjsZbdh_600x450.jpg"
+            ],
+            "text": "\n2001 Nissan Pathfinder LE 2WD"
+        }
+    },
+    {
         "price": "$3350",
         "title": "2001 Nissan Sentra,  low miles!!",
         "href": "https://charlotte.craigslist.org/cto/6073038546.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 0,
+            "index": 3,
             "array": [
                 "https://images.craigslist.org/00K0K_ha7VvsgElS3_600x450.jpg",
                 "https://images.craigslist.org/00Q0Q_iyBHUMoiiBM_600x450.jpg",
@@ -22,9 +65,9 @@
         "price": "$4995",
         "title": "08 NISSAN VERSA SL",
         "href": "https://charlotte.craigslist.org/cto/6049305197.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 1,
+            "index": 4,
             "array": [
                 "https://images.craigslist.org/00c0c_84uZKnfPaIz_600x450.jpg",
                 "https://images.craigslist.org/00202_cMEgwz0Aa4z_600x450.jpg",
@@ -43,9 +86,9 @@
         "price": "$5500",
         "title": "NISSAN MAXIMA SE * CLEAN TITLE * CLEAN CARFAX",
         "href": "https://charlotte.craigslist.org/cto/6069959050.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 2,
+            "index": 5,
             "array": [
                 "https://images.craigslist.org/00808_5BGs6URpr0b_600x450.jpg",
                 "https://images.craigslist.org/00Q0Q_5TEKscfdy9c_600x450.jpg",
@@ -69,9 +112,9 @@
         "price": "$3850",
         "title": "2008 Nissan Quest Mini Van, 133K",
         "href": "https://charlotte.craigslist.org/cto/6072586575.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 3,
+            "index": 6,
             "array": [
                 "https://images.craigslist.org/00C0C_62FlV4h2iYp_600x450.jpg",
                 "https://images.craigslist.org/00707_6KWWcJJuiAl_600x450.jpg",
@@ -91,15 +134,15 @@
         "price": "$4300",
         "title": "2004 Nissan Pathfinder Se 2x4",
         "href": "https://charlotte.craigslist.org/cto/6069356137.html",
-        "make": "nissan"
+        "make": "Nissan"
     },
     {
         "price": "$5000",
         "title": "2011 Nissan Frontier S Crew Cab 2WD",
         "href": "https://charlotte.craigslist.org/ctd/6072321525.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 5,
+            "index": 8,
             "array": [
                 "https://images.craigslist.org/01717_hnFzdubeec6_600x450.jpg",
                 "https://images.craigslist.org/00202_b5w0moKfzrV_600x450.jpg",
@@ -121,9 +164,9 @@
         "price": "$3500",
         "title": "For Sale or Trade One 2000 Red Nission Fontier Truck",
         "href": "https://charlotte.craigslist.org/cto/6041573471.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 6,
+            "index": 9,
             "array": [
                 "https://images.craigslist.org/00q0q_gkSCulJnPUQ_600x450.jpg",
                 "https://images.craigslist.org/01515_7VzVcBwuOzT_600x450.jpg",
@@ -142,9 +185,9 @@
         "price": "$3950",
         "title": "2005 Nissan Altima in very good condition",
         "href": "https://charlotte.craigslist.org/cto/6053428862.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 7,
+            "index": 10,
             "array": [
                 "https://images.craigslist.org/00N0N_1Q2WWQ6LQOc_600x450.jpg",
                 "https://images.craigslist.org/00s0s_aCZYvMJ72pi_600x450.jpg",
@@ -164,9 +207,9 @@
         "price": "$3750",
         "title": "2008 Nissan Quest seven passenger van..Clean Title ..drives great!!",
         "href": "https://charlotte.craigslist.org/cto/6057639024.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 8,
+            "index": 11,
             "array": [
                 "https://images.craigslist.org/00L0L_4gZwsTqEFsh_600x450.jpg",
                 "https://images.craigslist.org/00l0l_1NYu47vhsu3_600x450.jpg",
@@ -187,9 +230,9 @@
         "price": "$5500",
         "title": "2011 Nissan Versa",
         "href": "https://charlotte.craigslist.org/cto/6034418172.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 9,
+            "index": 12,
             "array": [
                 "https://images.craigslist.org/00v0v_1u1hkWC1O9d_600x450.jpg",
                 "https://images.craigslist.org/00k0k_bHTZa0IwdtG_600x450.jpg",
@@ -205,9 +248,9 @@
         "price": "$3800",
         "title": "2005 Nissan Altima 2.5s",
         "href": "https://charlotte.craigslist.org/cto/6035578290.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 10,
+            "index": 13,
             "array": [
                 "https://images.craigslist.org/01414_aHbVUe2ltmW_600x450.jpg",
                 "https://images.craigslist.org/00I0I_lrl5LCnAvZ_600x450.jpg",
@@ -224,9 +267,9 @@
         "price": "$3300",
         "title": "2005 Nissan altima 120kmiles",
         "href": "https://charlotte.craigslist.org/cto/6058125274.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 11,
+            "index": 14,
             "array": [
                 "https://images.craigslist.org/00J0J_iCHv8fFbPyM_600x450.jpg"
             ],
@@ -237,9 +280,9 @@
         "price": "$3999",
         "title": "2008 NISSAN VERSA!!!!CLEAN TITLE!!!! GREAT MILES!!!",
         "href": "https://charlotte.craigslist.org/cto/6048603056.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 12,
+            "index": 15,
             "array": [
                 "https://images.craigslist.org/00D0D_4K0BX1sfXMQ_600x450.jpg",
                 "https://images.craigslist.org/00j0j_cf6DdlM9t4b_600x450.jpg",
@@ -263,9 +306,9 @@
         "price": "$5400",
         "title": "2007 Nissan Altima SL, Loaded, Clean as a Pin!",
         "href": "https://charlotte.craigslist.org/cto/6028798839.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 13,
+            "index": 16,
             "array": [
                 "https://images.craigslist.org/00v0v_14tFwhX0S8q_600x450.jpg",
                 "https://images.craigslist.org/00P0P_2vavlVfjT1s_600x450.jpg",
@@ -284,9 +327,9 @@
         "price": "$3800",
         "title": "2008 Nissan Sentra",
         "href": "https://charlotte.craigslist.org/cto/6063437871.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 14,
+            "index": 17,
             "array": [
                 "https://images.craigslist.org/00M0M_lRMlL0TQlQp_600x450.jpg",
                 "https://images.craigslist.org/00s0s_7bBt6PAvhKN_600x450.jpg",
@@ -303,9 +346,9 @@
         "price": "$4100",
         "title": "2008 Nissan Versa hatchback. Only 98k miles. Gas saver.",
         "href": "https://charlotte.craigslist.org/cto/6068481148.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 15,
+            "index": 18,
             "array": [
                 "https://images.craigslist.org/00707_8xDsBZEvRIA_600x450.jpg",
                 "https://images.craigslist.org/00s0s_7aIQIxlVTh2_600x450.jpg",
@@ -328,29 +371,15 @@
         "price": "$4700",
         "title": "2006 Nissan Sentra - Special Edition",
         "href": "https://charlotte.craigslist.org/ctd/6067544532.html",
-        "make": "nissan"
-    },
-    {
-        "price": "$4300",
-        "title": "2004 Nissan Pathfinder Se good miles!",
-        "href": "https://charlotte.craigslist.org/cto/6037961367.html",
-        "make": "nissan",
-        "pics": {
-            "index": 17,
-            "array": [
-                "https://images.craigslist.org/00O0O_3Ns82lZnr6r_600x450.jpg",
-                "https://images.craigslist.org/00V0V_7I0xJ6ISpLi_600x450.jpg"
-            ],
-            "text": "\nnice suv"
-        }
+        "make": "Nissan"
     },
     {
         "price": "$4200",
         "title": "2006 NISSAN  ALTIMA  2.5 SE",
         "href": "https://charlotte.craigslist.org/ctd/6066348841.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 18,
+            "index": 20,
             "array": [
                 "https://images.craigslist.org/00t0t_hiS5NmLLVb3_600x450.jpg",
                 "https://images.craigslist.org/01111_71UinjmUMn3_600x450.jpg",
@@ -373,9 +402,9 @@
         "price": "$4300",
         "title": "2005 Nissan altima 3.5 SL v6",
         "href": "https://charlotte.craigslist.org/cto/6065263871.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 19,
+            "index": 21,
             "array": [
                 "https://images.craigslist.org/00w0w_1xLOakHBLCg_600x450.jpg",
                 "https://images.craigslist.org/00S0S_8B7jw8UPE0F_600x450.jpg",
@@ -390,9 +419,9 @@
         "price": "$4500",
         "title": "2007 nissan quest",
         "href": "https://charlotte.craigslist.org/cto/6065239953.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 20,
+            "index": 22,
             "array": [
                 "https://images.craigslist.org/00c0c_iCrxHiwBizw_600x450.jpg",
                 "https://images.craigslist.org/00X0X_c1pga9IySfO_600x450.jpg",
@@ -414,9 +443,9 @@
         "price": "$4495",
         "title": "2003 nissan maxima",
         "href": "https://hickory.craigslist.org/ctd/6065155862.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 21,
+            "index": 23,
             "array": [
                 "https://images.craigslist.org/00N0N_95Cgz6T9cOc_600x450.jpg",
                 "https://images.craigslist.org/00B0B_8FonuQTUQnH_600x450.jpg",
@@ -442,9 +471,9 @@
         "price": "$3990",
         "title": "2006 NISSAN SENTRA 1.8 S / 4-DOOR SEDAN / AUTOMATIC / RUNS GREAT",
         "href": "https://charlotte.craigslist.org/ctd/6064326907.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 22,
+            "index": 24,
             "array": [
                 "https://images.craigslist.org/00909_i3Cyo22yAOI_600x450.jpg",
                 "https://images.craigslist.org/00L0L_2idb9PYZpEY_600x450.jpg",
@@ -474,9 +503,9 @@
         "price": "$5400",
         "title": "2008 Nissan Altima **REDUCED PRICE**",
         "href": "https://charlotte.craigslist.org/cto/6042162728.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 23,
+            "index": 25,
             "array": [
                 "https://images.craigslist.org/00J0J_kj9sA1HB91V_600x450.jpg",
                 "https://images.craigslist.org/00909_kNDkxTXu5lI_600x450.jpg",
@@ -491,9 +520,9 @@
         "price": "$3000",
         "title": "2002 Nissan Maxima cd  runs good all options working sell now",
         "href": "https://charlotte.craigslist.org/cto/6055039159.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 24,
+            "index": 26,
             "array": [
                 "https://images.craigslist.org/00606_e4NJSJMmbPI_600x450.jpg",
                 "https://images.craigslist.org/00M0M_jZWE5LJGVu3_600x450.jpg",
@@ -511,9 +540,9 @@
         "price": "$3900",
         "title": "2007 Nissan Altima S",
         "href": "https://charlotte.craigslist.org/cto/6054427327.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 25,
+            "index": 27,
             "array": [
                 "https://images.craigslist.org/00Y0Y_jXaijEskcyJ_600x450.jpg",
                 "https://images.craigslist.org/00m0m_9OYf15uU8nB_600x450.jpg",
@@ -527,9 +556,9 @@
         "price": "$4599",
         "title": "2006 Nissan Sentra",
         "href": "https://charlotte.craigslist.org/cto/6047216545.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 26,
+            "index": 28,
             "array": [
                 "https://images.craigslist.org/00R0R_fbAVBPVzf0c_600x450.jpg"
             ],
@@ -540,9 +569,9 @@
         "price": "$5400",
         "title": "2003 Nissan 350z",
         "href": "https://charlotte.craigslist.org/cto/6049540822.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 27,
+            "index": 29,
             "array": [
                 "https://images.craigslist.org/00N0N_eEeWYIgcw5Z_600x450.jpg",
                 "https://images.craigslist.org/00M0M_lEdZbQ4n6ET_600x450.jpg",
@@ -557,9 +586,9 @@
         "price": "$3800",
         "title": "2004 NISSAN PATHFINDER LE 4WD",
         "href": "https://charlotte.craigslist.org/cto/6058777180.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 28,
+            "index": 30,
             "array": [
                 "https://images.craigslist.org/00404_d6XyLIxjol4_600x450.jpg",
                 "https://images.craigslist.org/00H0H_k5aXAhou0BQ_600x450.jpg",
@@ -591,9 +620,9 @@
         "price": "$4990",
         "title": "2004 NISSAN QUEST SE LOADED DVD",
         "href": "https://charlotte.craigslist.org/ctd/6057355113.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 29,
+            "index": 31,
             "array": [
                 "https://images.craigslist.org/00U0U_OtaH6gMtBA_600x450.jpg",
                 "https://images.craigslist.org/00j0j_31qBrGZsX6Q_600x450.jpg",
@@ -627,9 +656,9 @@
         "price": "$5300",
         "title": "2008 NISSAN VERSA",
         "href": "https://charlotte.craigslist.org/cto/6039420303.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 30,
+            "index": 32,
             "array": [
                 "https://images.craigslist.org/00c0c_5xhecDATXQu_600x450.jpg",
                 "https://images.craigslist.org/01212_l7xyXB9oYWJ_600x450.jpg",
@@ -654,9 +683,9 @@
         "price": "$5500",
         "title": "2009 Nissan Altima(financing)",
         "href": "https://charlotte.craigslist.org/cto/6055691870.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 31,
+            "index": 33,
             "array": [
                 "https://images.craigslist.org/00505_aO2tjrQM4aL_600x450.jpg",
                 "https://images.craigslist.org/00u0u_l9GzyOTQuYX_600x450.jpg",
@@ -672,15 +701,15 @@
         "price": "$3500",
         "title": "03 nissan sentra",
         "href": "https://winstonsalem.craigslist.org/cto/6050540670.html",
-        "make": "nissan"
+        "make": "Nissan"
     },
     {
         "price": "$3299",
         "title": "01 NISSAN MAX",
         "href": "https://columbia.craigslist.org/cto/6038659757.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 33,
+            "index": 35,
             "array": [
                 "https://images.craigslist.org/01313_4pVENXofr0Q_600x450.jpg",
                 "https://images.craigslist.org/00U0U_8WzQZMSRW45_600x450.jpg",
@@ -700,9 +729,9 @@
         "price": "$4600",
         "title": "2006 NISSAN ALTIMA 2.5 S",
         "href": "https://hickory.craigslist.org/ctd/6048991653.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 34,
+            "index": 36,
             "array": [
                 "https://images.craigslist.org/00Q0Q_lSdU7t6QCNm_600x450.jpg",
                 "https://images.craigslist.org/00i0i_hBWJXsrMJPw_600x450.jpg",
@@ -724,9 +753,9 @@
         "price": "$4995",
         "title": "2007 Nissan Quest LOW MILES!!! DVD PLAYER!!!",
         "href": "https://charlotte.craigslist.org/ctd/6048210904.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 35,
+            "index": 37,
             "array": [
                 "https://images.craigslist.org/00o0o_fylmZPQQilr_600x450.jpg",
                 "https://images.craigslist.org/00u0u_ifWxK6h9bq0_600x450.jpg",
@@ -757,9 +786,9 @@
         "price": "$4500",
         "title": "03 nissan quest",
         "href": "https://charlotte.craigslist.org/cto/6047332583.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 36,
+            "index": 38,
             "array": [
                 "https://images.craigslist.org/00K0K_iOw0gvlW6Ix_600x450.jpg",
                 "https://images.craigslist.org/01515_j4qwI43rYME_600x450.jpg",
@@ -776,9 +805,9 @@
         "price": "$5500",
         "title": "05 nissan  terra",
         "href": "https://charlotte.craigslist.org/cto/6029103617.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 37,
+            "index": 39,
             "array": [
                 "https://images.craigslist.org/00Q0Q_9aOEkG31zNg_600x450.jpg",
                 "https://images.craigslist.org/00f0f_3KZ1Xelv9NV_600x450.jpg",
@@ -802,9 +831,9 @@
         "price": "$3000",
         "title": "02 Nissan Maxima",
         "href": "https://charlotte.craigslist.org/cto/6044261327.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 38,
+            "index": 40,
             "array": [
                 "https://images.craigslist.org/00P0P_2ZcHKLeor8f_600x450.jpg",
                 "https://images.craigslist.org/00v0v_3ySB6WVxHu9_600x450.jpg",
@@ -817,9 +846,9 @@
         "price": "$5000",
         "title": "2009 Altima 2.5 s",
         "href": "https://charlotte.craigslist.org/cto/6024883706.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 39,
+            "index": 41,
             "array": [
                 "https://images.craigslist.org/00a0a_7PRgmqjiQdS_600x450.jpg",
                 "https://images.craigslist.org/00h0h_1LUYNsYCnHf_600x450.jpg",
@@ -833,9 +862,9 @@
         "price": "$4500",
         "title": "2003 Nissan Sentra Se-R",
         "href": "https://charlotte.craigslist.org/cto/6040971990.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 40,
+            "index": 42,
             "array": [
                 "https://images.craigslist.org/00q0q_9ILdbsxWPcp_600x450.jpg",
                 "https://images.craigslist.org/00p0p_id9BXFlCvFR_600x450.jpg",
@@ -851,9 +880,9 @@
         "price": "$3481",
         "title": "2000 Nissan Maxima /119K/LOW MILES",
         "href": "https://charlotte.craigslist.org/ctd/6037838453.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 41,
+            "index": 43,
             "array": [
                 "https://images.craigslist.org/00B0B_cRf6Ppyy97e_600x450.jpg",
                 "https://images.craigslist.org/00404_cY3vE792lPg_600x450.jpg",
@@ -887,9 +916,9 @@
         "price": "$3100",
         "title": "02 Nissan altima 2.5s",
         "href": "https://charlotte.craigslist.org/cto/6010652661.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 42,
+            "index": 44,
             "array": [
                 "https://images.craigslist.org/00N0N_gb6xkRShymk_600x450.jpg",
                 "https://images.craigslist.org/00606_dFivkHCSRWk_600x450.jpg",
@@ -906,9 +935,9 @@
         "price": "$3495",
         "title": "2004 *Nissan* *Sentra* S",
         "href": "https://charlotte.craigslist.org/ctd/6033845122.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 43,
+            "index": 45,
             "array": [
                 "https://images.craigslist.org/00h0h_j6uKsEbK6wA_600x450.jpg",
                 "https://images.craigslist.org/00U0U_7r3HpLbpf3S_600x450.jpg",
@@ -932,9 +961,9 @@
         "price": "$4995",
         "title": "2008 Nissan Maxima LOW MILES!!! EXTRA CLEAN!!!",
         "href": "https://charlotte.craigslist.org/ctd/6032227068.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 44,
+            "index": 46,
             "array": [
                 "https://images.craigslist.org/00P0P_2I4uzMMMJ2f_600x450.jpg",
                 "https://images.craigslist.org/00f0f_3f6iMXzLsJX_600x450.jpg",
@@ -965,9 +994,9 @@
         "price": "$5000",
         "title": "2010 Nissan Altima 2.5 S CVT Coupe",
         "href": "https://charlotte.craigslist.org/ctd/6030603567.html",
-        "make": "nissan",
+        "make": "Nissan",
         "pics": {
-            "index": 45,
+            "index": 47,
             "array": [
                 "https://images.craigslist.org/00R0R_cLWdQxfeUOZ_600x450.jpg",
                 "https://images.craigslist.org/00e0e_agutZw9QwKP_600x450.jpg",
