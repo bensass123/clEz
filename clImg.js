@@ -1,9 +1,3 @@
-//cl image grab
-
-//to test scrape the body of cl postings
-
-
-
 var request = require('request');
 var cheerio = require('cheerio');
 var fs = require('fs');
@@ -86,4 +80,3 @@ setTimeout(function(){
 	}, 6000)
 
 setTimeout(createFile, 15000)
-
