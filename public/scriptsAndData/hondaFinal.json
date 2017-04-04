@@ -403,36 +403,12 @@
         }
     },
     {
-        "price": "$4000",
-        "title": "2000 Honda Accord",
-        "href": "https://charlotte.craigslist.org/cto/6068892574.html",
-        "make": "honda",
-        "pics": {
-            "index": 19,
-            "array": [
-                "https://images.craigslist.org/00505_cnvzKF8hokv_600x450.jpg",
-                "https://images.craigslist.org/01212_eddcyms9PJY_600x450.jpg",
-                "https://images.craigslist.org/00n0n_c1oQvugF519_600x450.jpg",
-                "https://images.craigslist.org/01212_2TUEHjnFIik_600x450.jpg",
-                "https://images.craigslist.org/00y0y_8qTTx4fT4Gz_600x450.jpg",
-                "https://images.craigslist.org/00M0M_nZels7Q4lg_600x450.jpg",
-                "https://images.craigslist.org/00m0m_5LNi3qX5Kz4_600x450.jpg",
-                "https://images.craigslist.org/00V0V_kzlIPYHDqD3_600x450.jpg",
-                "https://images.craigslist.org/00h0h_i5yi1FGZBq3_600x450.jpg",
-                "https://images.craigslist.org/00r0r_kV3FhfQ3LFT_600x450.jpg",
-                "https://images.craigslist.org/00f0f_4cgxcx9YAJ0_600x450.jpg",
-                "https://images.craigslist.org/00a0a_6rFXVf4pEiX_600x450.jpg"
-            ],
-            "text": "\n4 cylinder, automatic, new paint, sunroof, cold A/C, power windows, locks mirrors and seats, tilt steering, cruise control, alloy wheels, new tires, reel and hester, factory CD player, clean leather interior    "
-        }
-    },
-    {
         "price": "$3495",
         "title": "99 Honda Accord LX",
         "href": "https://charlotte.craigslist.org/cto/6068851528.html",
         "make": "honda",
         "pics": {
-            "index": 20,
+            "index": 19,
             "array": [
                 "https://images.craigslist.org/00u0u_6ihW08AX8MG_600x450.jpg",
                 "https://images.craigslist.org/00Z0Z_k0RVZboQq8Q_600x450.jpg",
@@ -453,7 +429,7 @@
         "href": "https://hickory.craigslist.org/cto/6068420634.html",
         "make": "honda",
         "pics": {
-            "index": 21,
+            "index": 20,
             "array": [
                 "https://images.craigslist.org/00G0G_lQALXJlaOut_600x450.jpg",
                 "https://images.craigslist.org/01515_8bD5ZPPVgJd_600x450.jpg",
@@ -472,7 +448,7 @@
         "href": "https://charlotte.craigslist.org/cto/6062247676.html",
         "make": "honda",
         "pics": {
-            "index": 22,
+            "index": 21,
             "array": [
                 "https://images.craigslist.org/01111_8NjhoKYmkWG_600x450.jpg",
                 "https://images.craigslist.org/00K0K_9eEojMehK8p_600x450.jpg",
@@ -490,7 +466,7 @@
         "href": "https://charlotte.craigslist.org/ctd/6067229356.html",
         "make": "honda",
         "pics": {
-            "index": 23,
+            "index": 22,
             "array": [
                 "https://images.craigslist.org/00i0i_6zK2VwyY55x_600x450.jpg",
                 "https://images.craigslist.org/00B0B_UBF4anrJFv_600x450.jpg",
@@ -526,7 +502,7 @@
         "href": "https://greenville.craigslist.org/cto/6066081389.html",
         "make": "honda",
         "pics": {
-            "index": 24,
+            "index": 23,
             "array": [
                 "https://images.craigslist.org/00m0m_ewyngktdzB_600x450.jpg",
                 "https://images.craigslist.org/00I0I_aT78BuzWYgC_600x450.jpg",
@@ -541,7 +517,7 @@
         "href": "https://charlotte.craigslist.org/cto/6036742709.html",
         "make": "honda",
         "pics": {
-            "index": 25,
+            "index": 24,
             "array": [
                 "https://images.craigslist.org/00e0e_5IbpnovTdSU_600x450.jpg",
                 "https://images.craigslist.org/00606_e4ubddixKck_600x450.jpg",
@@ -561,7 +537,7 @@
         "href": "https://charlotte.craigslist.org/cto/6065822491.html",
         "make": "honda",
         "pics": {
-            "index": 26,
+            "index": 25,
             "array": [
                 "https://images.craigslist.org/00A0A_icOWcYpyNw5_600x450.jpg",
                 "https://images.craigslist.org/00A0A_5EwRlLFIU9V_600x450.jpg",
@@ -586,7 +562,7 @@
         "href": "https://asheville.craigslist.org/cto/6065235832.html",
         "make": "honda",
         "pics": {
-            "index": 27,
+            "index": 26,
             "array": [
                 "https://images.craigslist.org/00H0H_jXDsC3knrO7_600x450.jpg",
                 "https://images.craigslist.org/00t0t_ahoBErruC27_600x450.jpg",
@@ -602,7 +578,7 @@
         "href": "https://hickory.craigslist.org/cto/6059250456.html",
         "make": "honda",
         "pics": {
-            "index": 28,
+            "index": 27,
             "array": [
                 "https://images.craigslist.org/00E0E_4nSdVGALNQx_600x450.jpg",
                 "https://images.craigslist.org/00909_ckjYddFebal_600x450.jpg",
@@ -624,7 +600,7 @@
         "href": "https://greenville.craigslist.org/ctd/6063571608.html",
         "make": "honda",
         "pics": {
-            "index": 29,
+            "index": 28,
             "array": [
                 "https://images.craigslist.org/00c0c_lT5EMovlBuO_600x450.jpg",
                 "https://images.craigslist.org/00t0t_8vg4WNjv7sZ_600x450.jpg",
@@ -640,7 +616,7 @@
         "href": "https://greensboro.craigslist.org/cto/6063195163.html",
         "make": "honda",
         "pics": {
-            "index": 30,
+            "index": 29,
             "array": [
                 "https://images.craigslist.org/00P0P_jaWnchwFpuP_600x450.jpg",
                 "https://images.craigslist.org/00A0A_agaGYce4PBZ_600x450.jpg"
@@ -654,7 +630,7 @@
         "href": "https://charlotte.craigslist.org/cto/6035581696.html",
         "make": "honda",
         "pics": {
-            "index": 31,
+            "index": 30,
             "array": [
                 "https://images.craigslist.org/00j0j_dd2WprbVJT_600x450.jpg",
                 "https://images.craigslist.org/00M0M_2NABJSeuPMq_600x450.jpg",
@@ -670,7 +646,7 @@
         "href": "https://charlotte.craigslist.org/cto/6062262752.html",
         "make": "honda",
         "pics": {
-            "index": 32,
+            "index": 31,
             "array": [
                 "https://images.craigslist.org/01111_rsm3quw7kJ_600x450.jpg",
                 "https://images.craigslist.org/00M0M_ewrGS3SCvdv_600x450.jpg",
@@ -689,7 +665,7 @@
         "href": "https://charlotte.craigslist.org/cto/6061393466.html",
         "make": "honda",
         "pics": {
-            "index": 33,
+            "index": 32,
             "array": [
                 "https://images.craigslist.org/00a0a_4Uvz5lgWxQZ_600x450.jpg",
                 "https://images.craigslist.org/01414_4GY1eNDmrZr_600x450.jpg",
@@ -709,7 +685,7 @@
         "href": "https://charlotte.craigslist.org/ctd/6060799637.html",
         "make": "honda",
         "pics": {
-            "index": 34,
+            "index": 33,
             "array": [
                 "https://images.craigslist.org/00v0v_8SSbCkvMemM_600x450.jpg",
                 "https://images.craigslist.org/00909_l8Z2d2dMNN_600x450.jpg",
@@ -739,7 +715,7 @@
         "href": "https://columbia.craigslist.org/cto/6059214362.html",
         "make": "honda",
         "pics": {
-            "index": 35,
+            "index": 34,
             "array": [
                 "https://images.craigslist.org/00808_acMMoeUaX8v_600x450.jpg",
                 "https://images.craigslist.org/00202_hvlWQcsl4ro_600x450.jpg",
@@ -761,7 +737,7 @@
         "href": "https://charlotte.craigslist.org/cto/6057495793.html",
         "make": "honda",
         "pics": {
-            "index": 36,
+            "index": 35,
             "array": [
                 "https://images.craigslist.org/00R0R_iH7UOcURI0K_600x450.jpg",
                 "https://images.craigslist.org/00b0b_4VvMr7y2PmL_600x450.jpg",
@@ -784,7 +760,7 @@
         "href": "https://charlotte.craigslist.org/cto/6015425261.html",
         "make": "honda",
         "pics": {
-            "index": 37,
+            "index": 36,
             "array": [
                 "https://images.craigslist.org/00q0q_2JC9RA4y6I5_600x450.jpg",
                 "https://images.craigslist.org/00U0U_duzuLIO6igP_600x450.jpg",
@@ -803,7 +779,7 @@
         "href": "https://greensboro.craigslist.org/ctd/6056993767.html",
         "make": "honda",
         "pics": {
-            "index": 38,
+            "index": 37,
             "array": [
                 "https://images.craigslist.org/00606_cckBUI8RttI_600x450.jpg",
                 "https://images.craigslist.org/00t0t_dJwXB9cLlHe_600x450.jpg",
@@ -823,7 +799,7 @@
         "href": "https://greensboro.craigslist.org/ctd/6056945812.html",
         "make": "honda",
         "pics": {
-            "index": 39,
+            "index": 38,
             "array": [
                 "https://images.craigslist.org/00Q0Q_ii2FrBoJ7JI_600x450.jpg",
                 "https://images.craigslist.org/00b0b_bQNNPbOdR1y_600x450.jpg",
@@ -850,7 +826,7 @@
         "href": "https://charlotte.craigslist.org/cto/6054977607.html",
         "make": "honda",
         "pics": {
-            "index": 41,
+            "index": 40,
             "array": [
                 "https://images.craigslist.org/00Y0Y_3gsvptvflEG_600x450.jpg",
                 "https://images.craigslist.org/00F0F_1LrqP2qxM0u_600x450.jpg",
@@ -869,7 +845,7 @@
         "href": "https://charlotte.craigslist.org/ctd/6054929458.html",
         "make": "honda",
         "pics": {
-            "index": 42,
+            "index": 41,
             "array": [
                 "https://images.craigslist.org/00g0g_faxWGfXSkx9_600x450.jpg",
                 "https://images.craigslist.org/00z0z_gct0g74KH3F_600x450.jpg",
@@ -893,7 +869,7 @@
         "href": "https://charlotte.craigslist.org/cto/6053605501.html",
         "make": "honda",
         "pics": {
-            "index": 43,
+            "index": 42,
             "array": [
                 "https://images.craigslist.org/00W0W_esg6O821mdW_600x450.jpg",
                 "https://images.craigslist.org/00q0q_kCmZYlZwDUP_600x450.jpg",
@@ -915,7 +891,7 @@
         "href": "https://columbia.craigslist.org/cto/6051800954.html",
         "make": "honda",
         "pics": {
-            "index": 45,
+            "index": 44,
             "array": [
                 "https://images.craigslist.org/00707_cGBGi9chaxw_600x450.jpg",
                 "https://images.craigslist.org/00T0T_e9wplfpe5hA_600x450.jpg",
@@ -936,7 +912,7 @@
         "href": "https://charlotte.craigslist.org/cto/6051143135.html",
         "make": "honda",
         "pics": {
-            "index": 46,
+            "index": 45,
             "array": [
                 "https://images.craigslist.org/00t0t_16cK27vFLKv_600x450.jpg",
                 "https://images.craigslist.org/00y0y_7JOusLtIlCm_600x450.jpg",
@@ -953,7 +929,7 @@
         "href": "https://charlotte.craigslist.org/cto/6051041105.html",
         "make": "honda",
         "pics": {
-            "index": 47,
+            "index": 46,
             "array": [
                 "https://images.craigslist.org/01010_1a7RspjCWKP_600x450.jpg",
                 "https://images.craigslist.org/00q0q_cHRZhQzF9Vh_600x450.jpg",
@@ -973,7 +949,7 @@
         "href": "https://charlotte.craigslist.org/cto/6049871011.html",
         "make": "honda",
         "pics": {
-            "index": 48,
+            "index": 47,
             "array": [
                 "https://images.craigslist.org/00101_1ga36sIzYOH_600x450.jpg"
             ],
@@ -986,7 +962,7 @@
         "href": "https://charlotte.craigslist.org/ctd/6049532525.html",
         "make": "honda",
         "pics": {
-            "index": 49,
+            "index": 48,
             "array": [
                 "https://images.craigslist.org/00v0v_7ombNXfyJlP_600x450.jpg",
                 "https://images.craigslist.org/00R0R_5s6zhmSvdKp_600x450.jpg",
@@ -1019,7 +995,7 @@
         "href": "https://charlotte.craigslist.org/ctd/6048985856.html",
         "make": "honda",
         "pics": {
-            "index": 50,
+            "index": 49,
             "array": [
                 "https://images.craigslist.org/00Q0Q_cVe8AZfXSKV_600x450.jpg",
                 "https://images.craigslist.org/00H0H_hvDAMAoadZU_600x450.jpg",
@@ -1043,7 +1019,7 @@
         "href": "https://greensboro.craigslist.org/ctd/6046743828.html",
         "make": "honda",
         "pics": {
-            "index": 51,
+            "index": 50,
             "array": [
                 "https://images.craigslist.org/00Q0Q_5nK4OzAVZMg_600x450.jpg",
                 "https://images.craigslist.org/00202_4fH9ucuhO28_600x450.jpg",
@@ -1073,7 +1049,7 @@
         "href": "https://charlotte.craigslist.org/cto/6044234799.html",
         "make": "honda",
         "pics": {
-            "index": 53,
+            "index": 52,
             "array": [
                 "https://images.craigslist.org/00u0u_laAA1h3XFGZ_600x450.jpg",
                 "https://images.craigslist.org/00T0T_7WjS6XFjXxt_600x450.jpg",
@@ -1090,7 +1066,7 @@
         "href": "https://charlotte.craigslist.org/cto/6015050552.html",
         "make": "honda",
         "pics": {
-            "index": 54,
+            "index": 53,
             "array": [
                 "https://images.craigslist.org/00M0M_8Oy9lkoJRMh_600x450.jpg",
                 "https://images.craigslist.org/00N0N_6D41plbeMax_600x450.jpg",
@@ -1105,7 +1081,7 @@
         "href": "https://charlotte.craigslist.org/cto/6006126049.html",
         "make": "honda",
         "pics": {
-            "index": 55,
+            "index": 54,
             "array": [
                 "https://images.craigslist.org/00303_hMwFSrWzgn5_600x450.jpg",
                 "https://images.craigslist.org/00n0n_qrhwLycbNw_600x450.jpg",
@@ -1120,7 +1096,7 @@
         "href": "https://charlotte.craigslist.org/cto/6038320786.html",
         "make": "honda",
         "pics": {
-            "index": 56,
+            "index": 55,
             "array": [
                 "https://images.craigslist.org/00M0M_7mG5xxoo8cd_600x450.jpg",
                 "https://images.craigslist.org/00S0S_jQemDhq3aD9_600x450.jpg",
@@ -1139,7 +1115,7 @@
         "href": "https://charlotte.craigslist.org/cto/6035236360.html",
         "make": "honda",
         "pics": {
-            "index": 57,
+            "index": 56,
             "array": [
                 "https://images.craigslist.org/00y0y_3jNRJzMQ4j3_600x450.jpg",
                 "https://images.craigslist.org/00202_jQbeeyViFHr_600x450.jpg",
@@ -1166,7 +1142,7 @@
         "href": "https://greensboro.craigslist.org/ctd/6032153474.html",
         "make": "honda",
         "pics": {
-            "index": 58,
+            "index": 57,
             "array": [
                 "https://images.craigslist.org/00303_1FeTjimfCKs_600x450.jpg",
                 "https://images.craigslist.org/00B0B_3QeJRjVsL7b_600x450.jpg",
@@ -1186,7 +1162,7 @@
         "href": "https://charlotte.craigslist.org/cto/6022890027.html",
         "make": "honda",
         "pics": {
-            "index": 59,
+            "index": 58,
             "array": [
                 "https://images.craigslist.org/00q0q_jNgq3Ul0y0e_600x450.jpg",
                 "https://images.craigslist.org/00g0g_hahfL1yRMZ7_600x450.jpg",
@@ -1207,7 +1183,7 @@
         "href": "https://charlotte.craigslist.org/cto/6029878588.html",
         "make": "honda",
         "pics": {
-            "index": 60,
+            "index": 59,
             "array": [
                 "https://images.craigslist.org/00k0k_eZHuJlRFsd5_600x450.jpg"
             ],

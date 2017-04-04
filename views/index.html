@@ -73,7 +73,7 @@
 
 <script>
     var data;
-	$.getJSON( "./hondaFinal.json", function( carData ) {
+	$.getJSON( "scriptsAndData/hondaFinal.json", function( carData ) {
         data = carData;
     });
 
@@ -1322,6 +1322,7 @@
                     var ind = $(this).data('index');
                     fillit(data[ind]);
                     console.log(data[ind].title);
+                    setTimeout(function(){$('html, body').animate({scrollTop: '0px'}, 300);}, 200);
                 }
             });
 
