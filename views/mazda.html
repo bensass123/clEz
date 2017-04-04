@@ -87,6 +87,18 @@
 
 
   $( document ).ready(function() {
+    var subaru = $('<button/>',
+      {
+          class: 'btn btn-md btn-primary others',
+          text: 'SUBARUS!',
+          click: function (event) { 
+              window.location.href='/subaru'     
+      }
+
+      });
+
+    $('#others').append(subaru);
+
     var nissan = $('<button/>',
       {
           class: 'btn btn-md btn-primary others',

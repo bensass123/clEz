@@ -15,6 +15,10 @@ router.get('/honda', function(req, res, next) {
   res.sendFile(path.join(__dirname, '/../views/honda.html'));
 });
 
+router.get('/subaru', function(req, res, next) {
+  res.sendFile(path.join(__dirname, '/../views/subaru.html'));
+});
+
 router.get('/mazda', function(req, res, next) {
   res.sendFile(path.join(__dirname, '/../views/mazda.html'));
 });
