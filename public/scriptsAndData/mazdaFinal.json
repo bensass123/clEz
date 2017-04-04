@@ -1,11 +1,29 @@
 [
     {
+        "price": "$5300",
+        "title": "2012 Mazda 2 Sport",
+        "href": "https://charlotte.craigslist.org/cto/6034673159.html",
+        "make": "Mazda",
+        "pics": {
+            "index": 0,
+            "array": [
+                "https://images.craigslist.org/00u0u_79jnSMWhPOr_600x450.jpg",
+                "https://images.craigslist.org/00y0y_k3tSNfA1dhP_600x450.jpg",
+                "https://images.craigslist.org/00b0b_aj6P7PHdlTP_600x450.jpg",
+                "https://images.craigslist.org/00x0x_3Lq1n2maEe0_600x450.jpg",
+                "https://images.craigslist.org/00000_9Ey18LO5BPg_600x450.jpg",
+                "https://images.craigslist.org/00h0h_a0AfEDvZVqJ_600x450.jpg"
+            ],
+            "text": "\n55,000 miles, 5 speed manual transmission, cd player, new tires $ 5,300.00  NADA appraised at $ 7,700.00 Gas Saver   Call "
+        }
+    },
+    {
         "price": "$4600",
         "title": "2009 Mazda 5 touring Suv/minivan with low miles 129k miles",
         "href": "https://charlotte.craigslist.org/cto/6056513402.html",
         "make": "Mazda",
         "pics": {
-            "index": 0,
+            "index": 1,
             "array": [
                 "https://images.craigslist.org/00g0g_dnVy9l2FIFd_600x450.jpg",
                 "https://images.craigslist.org/00M0M_dGLDJbY0KtY_600x450.jpg",
@@ -41,7 +59,7 @@
         "href": "https://charlotte.craigslist.org/cto/6066632060.html",
         "make": "Mazda",
         "pics": {
-            "index": 1,
+            "index": 2,
             "array": [
                 "https://images.craigslist.org/00X0X_eaqi6GsGgdu_600x450.jpg",
                 "https://images.craigslist.org/00000_g9VSzmGkDuM_600x450.jpg",
@@ -61,7 +79,7 @@
         "href": "https://charlotte.craigslist.org/cto/6059614582.html",
         "make": "Mazda",
         "pics": {
-            "index": 2,
+            "index": 3,
             "array": [
                 "https://images.craigslist.org/00p0p_efxmBSOGIUv_600x450.jpg",
                 "https://images.craigslist.org/00T0T_1kTR0gNQejd_600x450.jpg",
@@ -83,7 +101,7 @@
         "href": "https://charlotte.craigslist.org/cto/6071502002.html",
         "make": "Mazda",
         "pics": {
-            "index": 3,
+            "index": 4,
             "array": [
                 "https://images.craigslist.org/00q0q_dQtdDi99XbU_600x450.jpg",
                 "https://images.craigslist.org/00M0M_2AVyAAn67sx_600x450.jpg",
@@ -103,7 +121,7 @@
         "href": "https://charlotte.craigslist.org/cto/6070303482.html",
         "make": "Mazda",
         "pics": {
-            "index": 4,
+            "index": 5,
             "array": [
                 "https://images.craigslist.org/00606_cTeR9fU8aQ9_600x450.jpg",
                 "https://images.craigslist.org/00g0g_fznHYSOsb1u_600x450.jpg",
@@ -118,7 +136,7 @@
         "href": "https://charlotte.craigslist.org/cto/6069145369.html",
         "make": "Mazda",
         "pics": {
-            "index": 5,
+            "index": 6,
             "array": [
                 "https://images.craigslist.org/00V0V_L4WLr1jdz5_600x450.jpg",
                 "https://images.craigslist.org/01414_cmHPn5DscCc_600x450.jpg",
@@ -133,7 +151,7 @@
         "href": "https://charlotte.craigslist.org/cto/6068836315.html",
         "make": "Mazda",
         "pics": {
-            "index": 6,
+            "index": 7,
             "array": [
                 "https://images.craigslist.org/00d0d_cZ8r1bm5YYF_600x450.jpg",
                 "https://images.craigslist.org/00909_1sdkZGLfY3a_600x450.jpg",
@@ -149,7 +167,7 @@
         "href": "https://hickory.craigslist.org/cto/6067698793.html",
         "make": "Mazda",
         "pics": {
-            "index": 7,
+            "index": 8,
             "array": [
                 "https://images.craigslist.org/00F0F_4wXL2iVlKLQ_600x450.jpg",
                 "https://images.craigslist.org/00303_K60Cwifgv3_600x450.jpg",
@@ -169,7 +187,7 @@
         "href": "https://charlotte.craigslist.org/cto/6067443563.html",
         "make": "Mazda",
         "pics": {
-            "index": 8,
+            "index": 9,
             "array": [
                 "https://images.craigslist.org/00D0D_aY43J0VYMpI_600x450.jpg",
                 "https://images.craigslist.org/00i0i_kHYeRidmRrd_600x450.jpg",
@@ -189,7 +207,7 @@
         "href": "https://charlotte.craigslist.org/cto/6065240942.html",
         "make": "Mazda",
         "pics": {
-            "index": 9,
+            "index": 10,
             "array": [
                 "https://images.craigslist.org/00a0a_6K8kEFqxsU_600x450.jpg"
             ],
@@ -202,7 +220,7 @@
         "href": "https://hickory.craigslist.org/ctd/6065089883.html",
         "make": "Mazda",
         "pics": {
-            "index": 10,
+            "index": 11,
             "array": [
                 "https://images.craigslist.org/00Z0Z_g1qnmQPt5rB_600x450.jpg",
                 "https://images.craigslist.org/00e0e_8TUsBXA5V5v_600x450.jpg",
@@ -228,7 +246,7 @@
         "href": "https://charlotte.craigslist.org/cto/6044434908.html",
         "make": "Mazda",
         "pics": {
-            "index": 11,
+            "index": 12,
             "array": [
                 "https://images.craigslist.org/01414_7TOBGREuvSs_600x450.jpg",
                 "https://images.craigslist.org/00l0l_50GiqRIyTho_600x450.jpg",
@@ -245,7 +263,7 @@
         "href": "https://hickory.craigslist.org/ctd/6048796966.html",
         "make": "Mazda",
         "pics": {
-            "index": 12,
+            "index": 13,
             "array": [
                 "https://images.craigslist.org/00n0n_6z5SyzktX3_600x450.jpg"
             ],
@@ -258,7 +276,7 @@
         "href": "https://charlotte.craigslist.org/cto/6044834134.html",
         "make": "Mazda",
         "pics": {
-            "index": 13,
+            "index": 14,
             "array": [
                 "https://images.craigslist.org/00R0R_7YLkaRFOUBz_600x450.jpg",
                 "https://images.craigslist.org/00e0e_bR0ltnq174J_600x450.jpg",
@@ -276,7 +294,7 @@
         "href": "https://charlotte.craigslist.org/cto/6041308889.html",
         "make": "Mazda",
         "pics": {
-            "index": 14,
+            "index": 15,
             "array": [
                 "https://images.craigslist.org/00j0j_8H5KjKwBkqL_600x450.jpg",
                 "https://images.craigslist.org/00f0f_ljqj5LmBtmD_600x450.jpg",
@@ -296,7 +314,7 @@
         "href": "https://charlotte.craigslist.org/cto/6041041522.html",
         "make": "Mazda",
         "pics": {
-            "index": 15,
+            "index": 16,
             "array": [
                 "https://images.craigslist.org/00G0G_avj2VnOhslo_600x450.jpg"
             ],
@@ -309,7 +327,7 @@
         "href": "https://charlotte.craigslist.org/cto/5999968709.html",
         "make": "Mazda",
         "pics": {
-            "index": 16,
+            "index": 17,
             "array": [
                 "https://images.craigslist.org/00C0C_2Db1WVDbyW9_600x450.jpg",
                 "https://images.craigslist.org/00n0n_aHO40F6VUbl_600x450.jpg",
@@ -326,7 +344,7 @@
         "href": "https://charlotte.craigslist.org/cto/6035884615.html",
         "make": "Mazda",
         "pics": {
-            "index": 17,
+            "index": 18,
             "array": [
                 "https://images.craigslist.org/00e0e_8JUxokPBDFP_600x450.jpg"
             ],
@@ -339,7 +357,7 @@
         "href": "https://charlotte.craigslist.org/ctd/6035206344.html",
         "make": "Mazda",
         "pics": {
-            "index": 18,
+            "index": 19,
             "array": [
                 "https://images.craigslist.org/00e0e_bVgVvfG9Su0_600x450.jpg",
                 "https://images.craigslist.org/00k0k_83GiAvytose_600x450.jpg",
@@ -371,7 +389,7 @@
         "href": "https://charlotte.craigslist.org/cto/6031813177.html",
         "make": "Mazda",
         "pics": {
-            "index": 19,
+            "index": 20,
             "array": [
                 "https://images.craigslist.org/00Z0Z_fD7y7sFJu4Y_600x450.jpg",
                 "https://images.craigslist.org/00h0h_i3lrN1P2rLi_600x450.jpg",

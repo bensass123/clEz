@@ -1,11 +1,30 @@
 [
     {
+        "price": "$3800",
+        "title": "2008 Nissan Sentra",
+        "href": "https://charlotte.craigslist.org/cto/6063437871.html",
+        "make": "Nissan",
+        "pics": {
+            "index": 0,
+            "array": [
+                "https://images.craigslist.org/00M0M_lRMlL0TQlQp_600x450.jpg",
+                "https://images.craigslist.org/00s0s_7bBt6PAvhKN_600x450.jpg",
+                "https://images.craigslist.org/00P0P_gRwJm7ONtNQ_600x450.jpg",
+                "https://images.craigslist.org/00A0A_8bKjbDLmc9R_600x450.jpg",
+                "https://images.craigslist.org/00Z0Z_7gt4vSGRCl9_600x450.jpg",
+                "https://images.craigslist.org/00202_eg2AqLuFV2U_600x450.jpg",
+                "https://images.craigslist.org/00707_ivCKx4R26tY_600x450.jpg"
+            ],
+            "text": "\n2008 Nissan Sentra for sale. "
+        }
+    },
+    {
         "price": "$5500",
         "title": "Nissan altima 2007",
         "href": "https://charlotte.craigslist.org/cto/6048075105.html",
         "make": "Nissan",
         "pics": {
-            "index": 0,
+            "index": 1,
             "array": [
                 "https://images.craigslist.org/00L0L_4zd5X5bhcPs_600x450.jpg",
                 "https://images.craigslist.org/00D0D_i4weqcvfo5H_600x450.jpg"
@@ -19,7 +38,7 @@
         "href": "https://charlotte.craigslist.org/cto/6037961367.html",
         "make": "Nissan",
         "pics": {
-            "index": 1,
+            "index": 2,
             "array": [
                 "https://images.craigslist.org/00O0O_3Ns82lZnr6r_600x450.jpg",
                 "https://images.craigslist.org/00V0V_7I0xJ6ISpLi_600x450.jpg"
@@ -33,7 +52,7 @@
         "href": "https://charlotte.craigslist.org/cto/6073490074.html",
         "make": "Nissan",
         "pics": {
-            "index": 2,
+            "index": 3,
             "array": [
                 "https://images.craigslist.org/00808_inNtg56L2sw_600x450.jpg",
                 "https://images.craigslist.org/00t0t_lIkOHGU7OWg_600x450.jpg",
@@ -48,7 +67,7 @@
         "href": "https://charlotte.craigslist.org/cto/6073038546.html",
         "make": "Nissan",
         "pics": {
-            "index": 3,
+            "index": 4,
             "array": [
                 "https://images.craigslist.org/00K0K_ha7VvsgElS3_600x450.jpg",
                 "https://images.craigslist.org/00Q0Q_iyBHUMoiiBM_600x450.jpg",
@@ -67,7 +86,7 @@
         "href": "https://charlotte.craigslist.org/cto/6049305197.html",
         "make": "Nissan",
         "pics": {
-            "index": 4,
+            "index": 5,
             "array": [
                 "https://images.craigslist.org/00c0c_84uZKnfPaIz_600x450.jpg",
                 "https://images.craigslist.org/00202_cMEgwz0Aa4z_600x450.jpg",
@@ -86,27 +105,7 @@
         "price": "$5500",
         "title": "NISSAN MAXIMA SE * CLEAN TITLE * CLEAN CARFAX",
         "href": "https://charlotte.craigslist.org/cto/6069959050.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 5,
-            "array": [
-                "https://images.craigslist.org/00808_5BGs6URpr0b_600x450.jpg",
-                "https://images.craigslist.org/00Q0Q_5TEKscfdy9c_600x450.jpg",
-                "https://images.craigslist.org/00X0X_d3Lp12WbELJ_600x450.jpg",
-                "https://images.craigslist.org/01616_66fWlobwS4U_600x450.jpg",
-                "https://images.craigslist.org/00q0q_kjBMgj4r7KI_600x450.jpg",
-                "https://images.craigslist.org/00C0C_l3pQaNe4dtG_600x450.jpg",
-                "https://images.craigslist.org/00m0m_gZME7CtVeVY_600x450.jpg",
-                "https://images.craigslist.org/00J0J_fPWWa0eaN98_600x450.jpg",
-                "https://images.craigslist.org/01717_kJ3tF9XcuMo_600x450.jpg",
-                "https://images.craigslist.org/00y0y_2jrHNXFgecZ_600x450.jpg",
-                "https://images.craigslist.org/00Q0Q_7PD78Oesote_600x450.jpg",
-                "https://images.craigslist.org/00303_gUd7Y4YDZbz_600x450.jpg",
-                "https://images.craigslist.org/01616_arumB8YZkQu_600x450.jpg",
-                "https://images.craigslist.org/00s0s_jLeQ8o8tWlt_600x450.jpg"
-            ],
-            "text": "\n2003 NISSAN MAXIMA SE , 107K MILES , BURGUNDY WITH BLACK INTERIOR , 3.5 V6 , AUTOMATIC TRANSMISSION , FUEL ECONOMY RATED AT 21 MPG CITY AND 28 MPG HIGHWAY."
-        }
+        "make": "Nissan"
     },
     {
         "price": "$3850",
@@ -114,7 +113,7 @@
         "href": "https://charlotte.craigslist.org/cto/6072586575.html",
         "make": "Nissan",
         "pics": {
-            "index": 6,
+            "index": 7,
             "array": [
                 "https://images.craigslist.org/00C0C_62FlV4h2iYp_600x450.jpg",
                 "https://images.craigslist.org/00707_6KWWcJJuiAl_600x450.jpg",
@@ -142,7 +141,7 @@
         "href": "https://charlotte.craigslist.org/ctd/6072321525.html",
         "make": "Nissan",
         "pics": {
-            "index": 8,
+            "index": 9,
             "array": [
                 "https://images.craigslist.org/01717_hnFzdubeec6_600x450.jpg",
                 "https://images.craigslist.org/00202_b5w0moKfzrV_600x450.jpg",
@@ -166,7 +165,7 @@
         "href": "https://charlotte.craigslist.org/cto/6041573471.html",
         "make": "Nissan",
         "pics": {
-            "index": 9,
+            "index": 10,
             "array": [
                 "https://images.craigslist.org/00q0q_gkSCulJnPUQ_600x450.jpg",
                 "https://images.craigslist.org/01515_7VzVcBwuOzT_600x450.jpg",
@@ -187,7 +186,7 @@
         "href": "https://charlotte.craigslist.org/cto/6053428862.html",
         "make": "Nissan",
         "pics": {
-            "index": 10,
+            "index": 11,
             "array": [
                 "https://images.craigslist.org/00N0N_1Q2WWQ6LQOc_600x450.jpg",
                 "https://images.craigslist.org/00s0s_aCZYvMJ72pi_600x450.jpg",
@@ -209,7 +208,7 @@
         "href": "https://charlotte.craigslist.org/cto/6057639024.html",
         "make": "Nissan",
         "pics": {
-            "index": 11,
+            "index": 12,
             "array": [
                 "https://images.craigslist.org/00L0L_4gZwsTqEFsh_600x450.jpg",
                 "https://images.craigslist.org/00l0l_1NYu47vhsu3_600x450.jpg",
@@ -232,7 +231,7 @@
         "href": "https://charlotte.craigslist.org/cto/6034418172.html",
         "make": "Nissan",
         "pics": {
-            "index": 12,
+            "index": 13,
             "array": [
                 "https://images.craigslist.org/00v0v_1u1hkWC1O9d_600x450.jpg",
                 "https://images.craigslist.org/00k0k_bHTZa0IwdtG_600x450.jpg",
@@ -250,7 +249,7 @@
         "href": "https://charlotte.craigslist.org/cto/6035578290.html",
         "make": "Nissan",
         "pics": {
-            "index": 13,
+            "index": 14,
             "array": [
                 "https://images.craigslist.org/01414_aHbVUe2ltmW_600x450.jpg",
                 "https://images.craigslist.org/00I0I_lrl5LCnAvZ_600x450.jpg",
@@ -267,14 +266,7 @@
         "price": "$3300",
         "title": "2005 Nissan altima 120kmiles",
         "href": "https://charlotte.craigslist.org/cto/6058125274.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 14,
-            "array": [
-                "https://images.craigslist.org/00J0J_iCHv8fFbPyM_600x450.jpg"
-            ],
-            "text": "\nVery nice dependable and clean ecellent interior runs great tuned up just changed the oil and the tires are great no leaks passed inspection already sunroof ac heat cd player power windows alarm remote#  nine80 263 1815    "
-        }
+        "make": "Nissan"
     },
     {
         "price": "$3999",
@@ -282,7 +274,7 @@
         "href": "https://charlotte.craigslist.org/cto/6048603056.html",
         "make": "Nissan",
         "pics": {
-            "index": 15,
+            "index": 16,
             "array": [
                 "https://images.craigslist.org/00D0D_4K0BX1sfXMQ_600x450.jpg",
                 "https://images.craigslist.org/00j0j_cf6DdlM9t4b_600x450.jpg",
@@ -308,7 +300,7 @@
         "href": "https://charlotte.craigslist.org/cto/6028798839.html",
         "make": "Nissan",
         "pics": {
-            "index": 16,
+            "index": 17,
             "array": [
                 "https://images.craigslist.org/00v0v_14tFwhX0S8q_600x450.jpg",
                 "https://images.craigslist.org/00P0P_2vavlVfjT1s_600x450.jpg",
@@ -321,25 +313,6 @@
                 "https://images.craigslist.org/01010_5hzKsYxSEpF_600x450.jpg"
             ],
             "text": "\n2007 Nissan Altima SL, Auto, 180k miles, Clean title, Local car, well cared for!"
-        }
-    },
-    {
-        "price": "$3800",
-        "title": "2008 Nissan Sentra",
-        "href": "https://charlotte.craigslist.org/cto/6063437871.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 17,
-            "array": [
-                "https://images.craigslist.org/00M0M_lRMlL0TQlQp_600x450.jpg",
-                "https://images.craigslist.org/00s0s_7bBt6PAvhKN_600x450.jpg",
-                "https://images.craigslist.org/00P0P_gRwJm7ONtNQ_600x450.jpg",
-                "https://images.craigslist.org/00A0A_8bKjbDLmc9R_600x450.jpg",
-                "https://images.craigslist.org/00Z0Z_7gt4vSGRCl9_600x450.jpg",
-                "https://images.craigslist.org/00202_eg2AqLuFV2U_600x450.jpg",
-                "https://images.craigslist.org/00707_ivCKx4R26tY_600x450.jpg"
-            ],
-            "text": "\n2008 Nissan Sentra for sale. "
         }
     },
     {
@@ -443,61 +416,13 @@
         "price": "$4495",
         "title": "2003 nissan maxima",
         "href": "https://hickory.craigslist.org/ctd/6065155862.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 23,
-            "array": [
-                "https://images.craigslist.org/00N0N_95Cgz6T9cOc_600x450.jpg",
-                "https://images.craigslist.org/00B0B_8FonuQTUQnH_600x450.jpg",
-                "https://images.craigslist.org/00q0q_bbrf5jBCZok_600x450.jpg",
-                "https://images.craigslist.org/00V0V_bxTriRxkuR_600x450.jpg",
-                "https://images.craigslist.org/01717_7djguXxxpX8_600x450.jpg",
-                "https://images.craigslist.org/00H0H_l6a2QFi3oWS_600x450.jpg",
-                "https://images.craigslist.org/00707_bnIpuYMpjHp_600x450.jpg",
-                "https://images.craigslist.org/00v0v_lCGVr4VRSaT_600x450.jpg",
-                "https://images.craigslist.org/00r0r_fkZK1nJ8dgg_600x450.jpg",
-                "https://images.craigslist.org/00V0V_l6iw4cTajwD_600x450.jpg",
-                "https://images.craigslist.org/00808_llSblHHYgEq_600x450.jpg",
-                "https://images.craigslist.org/00K0K_kotTgjHbtR7_600x450.jpg",
-                "https://images.craigslist.org/00B0B_dcRTZPDPmh3_600x450.jpg",
-                "https://images.craigslist.org/00c0c_l9t5XFdeHNd_600x450.jpg",
-                "https://images.craigslist.org/00808_bIXjy6leuA6_600x450.jpg",
-                "https://images.craigslist.org/00Z0Z_9zYt94zLHbR_600x450.jpg"
-            ],
-            "text": "\nGREER AUTO SALES INC, Has this 2003 Nissan Maxima, comes with a 3.5L V6, Automatic Transmission, Leather interior, Power Windows, Power Locks, Power Seat, Power Mirrors, Center Console, AM/FM/CD, Air Conditioning, Alloy Wheels, for more info please visit our web site at www.greerautosalesnc.com    "
-        }
+        "make": "Nissan"
     },
     {
         "price": "$3990",
         "title": "2006 NISSAN SENTRA 1.8 S / 4-DOOR SEDAN / AUTOMATIC / RUNS GREAT",
         "href": "https://charlotte.craigslist.org/ctd/6064326907.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 24,
-            "array": [
-                "https://images.craigslist.org/00909_i3Cyo22yAOI_600x450.jpg",
-                "https://images.craigslist.org/00L0L_2idb9PYZpEY_600x450.jpg",
-                "https://images.craigslist.org/00B0B_4XEK2BkXyrN_600x450.jpg",
-                "https://images.craigslist.org/00s0s_l7SqyjAz6YD_600x450.jpg",
-                "https://images.craigslist.org/00C0C_5db7zOTmpSW_600x450.jpg",
-                "https://images.craigslist.org/00X0X_kEjI49ghNyk_600x450.jpg",
-                "https://images.craigslist.org/00m0m_eLV9LKYAr8I_600x450.jpg",
-                "https://images.craigslist.org/00M0M_jXWHkSfzo3I_600x450.jpg",
-                "https://images.craigslist.org/00404_koA6OUbjMsc_600x450.jpg",
-                "https://images.craigslist.org/00C0C_glqzmYHwPQs_600x450.jpg",
-                "https://images.craigslist.org/00Q0Q_kQ7EFY8xMsa_600x450.jpg",
-                "https://images.craigslist.org/00k0k_3frU2bogUS_600x450.jpg",
-                "https://images.craigslist.org/00C0C_bq0ee76O4LE_600x450.jpg",
-                "https://images.craigslist.org/01010_c7LOm788Yqs_600x450.jpg",
-                "https://images.craigslist.org/00U0U_jd3qxNmyuNu_600x450.jpg",
-                "https://images.craigslist.org/00G0G_etz0bO2mePE_600x450.jpg",
-                "https://images.craigslist.org/00u0u_5uPWCQoDo1Q_600x450.jpg",
-                "https://images.craigslist.org/01414_kmMPKYDJGzf_600x450.jpg",
-                "https://images.craigslist.org/00y0y_4qj6EqJ2n7K_600x450.jpg",
-                "https://images.craigslist.org/00V0V_e7reKx7UFQC_600x450.jpg"
-            ],
-            "text": "\nONE OWNER VEHICLE !  GREAT CHOICE FOR FIRST TIME BUYER !  GAS SAVER !  RUNS GREAT !  N.C. State Inspected and ready to go.  Many Up-grades included ( Special Edition Pkg., Alloys, Rear Spoiler, Power Pkg., Automatic Transmission and much more).  A great buy at our discounted sale price.  On the lot financing available.  All trade-in's welcome.  Please call 704-563-8130 or come by our sales lot at 6418 E. Indep. Blvd., Charlotte, NC 28212.  **OVER 30 YEARS IN BUSINESS AT THE SAME LOCATION **    "
-        }
+        "make": "Nissan"
     },
     {
         "price": "$5400",
@@ -520,37 +445,13 @@
         "price": "$3000",
         "title": "2002 Nissan Maxima cd  runs good all options working sell now",
         "href": "https://charlotte.craigslist.org/cto/6055039159.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 26,
-            "array": [
-                "https://images.craigslist.org/00606_e4NJSJMmbPI_600x450.jpg",
-                "https://images.craigslist.org/00M0M_jZWE5LJGVu3_600x450.jpg",
-                "https://images.craigslist.org/00505_lTU97jWgSGL_600x450.jpg",
-                "https://images.craigslist.org/00J0J_2nWfASwaJut_600x450.jpg",
-                "https://images.craigslist.org/00W0W_5x3odcP6Jb3_600x450.jpg",
-                "https://images.craigslist.org/00404_jozfQfakS7E_600x450.jpg",
-                "https://images.craigslist.org/00F0F_4h9YLRYmzVf_600x450.jpg",
-                "https://images.craigslist.org/00G0G_6WoV6O3h5gw_600x450.jpg"
-            ],
-            "text": "\n"
-        }
+        "make": "Nissan"
     },
     {
         "price": "$3900",
         "title": "2007 Nissan Altima S",
         "href": "https://charlotte.craigslist.org/cto/6054427327.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 27,
-            "array": [
-                "https://images.craigslist.org/00Y0Y_jXaijEskcyJ_600x450.jpg",
-                "https://images.craigslist.org/00m0m_9OYf15uU8nB_600x450.jpg",
-                "https://images.craigslist.org/00a0a_dhJOgq7eV35_600x450.jpg",
-                "https://images.craigslist.org/00505_igA1f7OLcsT_600x450.jpg"
-            ],
-            "text": "\nAltima 2.5 S 4-door sedan, one owner, 129K miles, runs great, needs painting, new air conditioner compressor, Michelin tires less than a year old    "
-        }
+        "make": "Nissan"
     },
     {
         "price": "$4599",
@@ -620,82 +521,19 @@
         "price": "$4990",
         "title": "2004 NISSAN QUEST SE LOADED DVD",
         "href": "https://charlotte.craigslist.org/ctd/6057355113.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 31,
-            "array": [
-                "https://images.craigslist.org/00U0U_OtaH6gMtBA_600x450.jpg",
-                "https://images.craigslist.org/00j0j_31qBrGZsX6Q_600x450.jpg",
-                "https://images.craigslist.org/00Z0Z_iH55y9mPH6w_600x450.jpg",
-                "https://images.craigslist.org/00c0c_1mwnC3UHteA_600x450.jpg",
-                "https://images.craigslist.org/01414_3P6hpx3V1RE_600x450.jpg",
-                "https://images.craigslist.org/00S0S_lpGRzgATK7B_600x450.jpg",
-                "https://images.craigslist.org/00404_kTZ2RHjfj8X_600x450.jpg",
-                "https://images.craigslist.org/00z0z_jafjAJQgxbJ_600x450.jpg",
-                "https://images.craigslist.org/00Y0Y_izkLeWH9aSh_600x450.jpg",
-                "https://images.craigslist.org/00o0o_fHnUIXgDgOd_600x450.jpg",
-                "https://images.craigslist.org/00202_2UqeKTrg7mP_600x450.jpg",
-                "https://images.craigslist.org/00O0O_8FJSgtZXh9H_600x450.jpg",
-                "https://images.craigslist.org/00b0b_gaffzBCGH53_600x450.jpg",
-                "https://images.craigslist.org/00g0g_aZnqL2J32Kn_600x450.jpg",
-                "https://images.craigslist.org/00k0k_glBgxBnYW85_600x450.jpg",
-                "https://images.craigslist.org/00P0P_fJnxzbTaA0C_600x450.jpg",
-                "https://images.craigslist.org/00Z0Z_9ZuiyZw6gTM_600x450.jpg",
-                "https://images.craigslist.org/00101_hd0SsJm8qSW_600x450.jpg",
-                "https://images.craigslist.org/01515_jge7FklpiZ7_600x450.jpg",
-                "https://images.craigslist.org/01515_bm0En5Lupzv_600x450.jpg",
-                "https://images.craigslist.org/00F0F_fGWyuHII8bh_600x450.jpg",
-                "https://images.craigslist.org/00J0J_5uu6rp5UFLi_600x450.jpg",
-                "https://images.craigslist.org/00D0D_8dgvVWnTVx_600x450.jpg",
-                "https://images.craigslist.org/00D0D_ibif9RVfpnt_600x450.jpg"
-            ],
-            "text": "\n2004 NISSAN QUEST 3.5 SE HAS ONLY 109K , PERFECT SIZE MINIVAN, SILVER WITH BEIGE LEATEHR, LOADED UP, 3 ROWS SEATS WITH ROOM FOR 7, SKYVIEW ROOFS, POWER SUNROOF, DVD, BACK UP SENSORS, ROOFRACK, ALLOY WHEELS, ELECTRIC SLIDING DOORS, HEATED FRONT SEATS, KEYLESSENTRY...... ONE OWNER CAR, WITH 52 SERVICE RECORD ON CARFAX, CLEAN CARFAX WITH MINOR ACCIEDENTS, ITS A CAROLINA CAR, NO RUST, NO LEAKS, ITS REALY IN GOOD CONDITIONS, RUNS AND DRIVE EXCELLENT, ENGINE AND TRANSMISION SMOOTH, HAS NO MECHANICAL PROBLEMS, WE REPLACED THE TIMING CHAIN AND WATER PUMP, NEW VALVE COVER GASKET, VERY SMOOTH SPRTY RIDE, WE DONT CHARGE DEALER/DOC FEES, HAVE %100 POSITIVE REVIEWS AND FEEDBACK, FOR MORE INFO OR TEST DRIVE THE CAR PLEASE CALL OFFICE # 704-455-3366 OR MY CELL # 404-644-6227 WE ARE OPEN MONDAY THROUGH SATURDAY BY APPOINTMENT. (CALL BEFORE YOU COME). \n\n\n\n\n"
-        }
+        "make": "Nissan"
     },
     {
         "price": "$5300",
         "title": "2008 NISSAN VERSA",
         "href": "https://charlotte.craigslist.org/cto/6039420303.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 32,
-            "array": [
-                "https://images.craigslist.org/00c0c_5xhecDATXQu_600x450.jpg",
-                "https://images.craigslist.org/01212_l7xyXB9oYWJ_600x450.jpg",
-                "https://images.craigslist.org/00g0g_hxI2ncRA3Qo_600x450.jpg",
-                "https://images.craigslist.org/00j0j_e2nwtGGUQbK_600x450.jpg",
-                "https://images.craigslist.org/00T0T_9Q2WKDkHG6d_600x450.jpg",
-                "https://images.craigslist.org/00f0f_90Iy22MOF0v_600x450.jpg",
-                "https://images.craigslist.org/00x0x_2HcRWwMlHFK_600x450.jpg",
-                "https://images.craigslist.org/00P0P_7CnANIvOb9G_600x450.jpg",
-                "https://images.craigslist.org/00q0q_1nMYLbGDoHD_600x450.jpg",
-                "https://images.craigslist.org/00g0g_7tCdw8o3jb6_600x450.jpg",
-                "https://images.craigslist.org/00606_ijBhbvUe7rt_600x450.jpg",
-                "https://images.craigslist.org/00V0V_cMQ9IUsdM4N_600x450.jpg",
-                "https://images.craigslist.org/01111_9yx3uUMxTMT_600x450.jpg",
-                "https://images.craigslist.org/00505_hChYaAN8bKt_600x450.jpg",
-                "https://images.craigslist.org/00Q0Q_jGgGtFqtDkL_600x450.jpg"
-            ],
-            "text": "\n105K MILES"
-        }
+        "make": "Nissan"
     },
     {
         "price": "$5500",
         "title": "2009 Nissan Altima(financing)",
         "href": "https://charlotte.craigslist.org/cto/6055691870.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 33,
-            "array": [
-                "https://images.craigslist.org/00505_aO2tjrQM4aL_600x450.jpg",
-                "https://images.craigslist.org/00u0u_l9GzyOTQuYX_600x450.jpg",
-                "https://images.craigslist.org/00404_27J9akYJDmS_600x450.jpg",
-                "https://images.craigslist.org/00000_fcWT2SvZbiE_600x450.jpg",
-                "https://images.craigslist.org/00F0F_2kQOI4YJ19P_600x450.jpg",
-                "https://images.craigslist.org/00505_aO2tjrQM4aL_600x450.jpg"
-            ],
-            "text": "\n1000 down financing available 128099 miles 2009 Nissan Altima cold air hot heat car rides great 2.5 engine price to sell    "
-        }
+        "make": "Nissan"
     },
     {
         "price": "$3500",
@@ -707,47 +545,13 @@
         "price": "$3299",
         "title": "01 NISSAN MAX",
         "href": "https://columbia.craigslist.org/cto/6038659757.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 35,
-            "array": [
-                "https://images.craigslist.org/01313_4pVENXofr0Q_600x450.jpg",
-                "https://images.craigslist.org/00U0U_8WzQZMSRW45_600x450.jpg",
-                "https://images.craigslist.org/00S0S_d567eUqy8ME_600x450.jpg",
-                "https://images.craigslist.org/00p0p_bx5bVYXN9bg_600x450.jpg",
-                "https://images.craigslist.org/00F0F_3q0Tl14u1m9_600x450.jpg",
-                "https://images.craigslist.org/00r0r_52g7yrfgaRe_600x450.jpg",
-                "https://images.craigslist.org/00Y0Y_4uWtbt22sDr_600x450.jpg",
-                "https://images.craigslist.org/00b0b_l46UtHzyQr4_600x450.jpg",
-                "https://images.craigslist.org/00z0z_irTF3jm6wnn_600x450.jpg",
-                "https://images.craigslist.org/00j0j_1ehrWOfFmoy_600x450.jpg"
-            ],
-            "text": "\n***************************NO TEXT MESSAGING*********************************"
-        }
+        "make": "Nissan"
     },
     {
         "price": "$4600",
         "title": "2006 NISSAN ALTIMA 2.5 S",
         "href": "https://hickory.craigslist.org/ctd/6048991653.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 36,
-            "array": [
-                "https://images.craigslist.org/00Q0Q_lSdU7t6QCNm_600x450.jpg",
-                "https://images.craigslist.org/00i0i_hBWJXsrMJPw_600x450.jpg",
-                "https://images.craigslist.org/00909_188ytcDTNXL_600x450.jpg",
-                "https://images.craigslist.org/00606_fDGAn4g2IRF_600x450.jpg",
-                "https://images.craigslist.org/00i0i_QZJ7D2TGJx_600x450.jpg",
-                "https://images.craigslist.org/00R0R_lG1zLRxF7Mp_600x450.jpg",
-                "https://images.craigslist.org/00707_koVGXxHXXcB_600x450.jpg",
-                "https://images.craigslist.org/00W0W_3Cef5idufaX_600x450.jpg",
-                "https://images.craigslist.org/00303_Qhe9OylacW_600x450.jpg",
-                "https://images.craigslist.org/00s0s_dX2KKPx4nvn_600x450.jpg",
-                "https://images.craigslist.org/00K0K_ihAuWoYk8kt_600x450.jpg",
-                "https://images.craigslist.org/00a0a_fnrBueFzra3_600x450.jpg"
-            ],
-            "text": "\n2006 NISSAN ALTIMA 2.5 S. 128,xxx Miles. Automatic transmission. Clean title. Cloth Interior. Air condition. Manual seats. Power windows. Power door locks. Power mirrors. Extra clean. No oil leaks. No check engine or air bag light on. Runs and Drives great. "
-        }
+        "make": "Nissan"
     },
     {
         "price": "$4995",
@@ -805,27 +609,7 @@
         "price": "$5500",
         "title": "05 nissan  terra",
         "href": "https://charlotte.craigslist.org/cto/6029103617.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 39,
-            "array": [
-                "https://images.craigslist.org/00Q0Q_9aOEkG31zNg_600x450.jpg",
-                "https://images.craigslist.org/00f0f_3KZ1Xelv9NV_600x450.jpg",
-                "https://images.craigslist.org/00g0g_6ORzNYdCP7_600x450.jpg",
-                "https://images.craigslist.org/00X0X_g2s2AQNuO14_600x450.jpg",
-                "https://images.craigslist.org/00Y0Y_3AbRpr3VXMv_600x450.jpg",
-                "https://images.craigslist.org/01616_c6hN5EbSiOc_600x450.jpg",
-                "https://images.craigslist.org/00l0l_562Wx8tLpyj_600x450.jpg",
-                "https://images.craigslist.org/00202_9HKVd3X3d41_600x450.jpg",
-                "https://images.craigslist.org/00404_eFmieScPKxP_600x450.jpg",
-                "https://images.craigslist.org/00O0O_8BiQqkwsdJR_600x450.jpg",
-                "https://images.craigslist.org/00L0L_bjpSz27ppSJ_600x450.jpg",
-                "https://images.craigslist.org/01515_5RFwUR8bF79_600x450.jpg",
-                "https://images.craigslist.org/00A0A_84l89Qeaadv_600x450.jpg",
-                "https://images.craigslist.org/00e0e_iLobp1LQloV_600x450.jpg"
-            ],
-            "text": "\n05 Nissan Xterra "
-        }
+        "make": "Nissan"
     },
     {
         "price": "$3000",
@@ -846,17 +630,7 @@
         "price": "$5000",
         "title": "2009 Altima 2.5 s",
         "href": "https://charlotte.craigslist.org/cto/6024883706.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 41,
-            "array": [
-                "https://images.craigslist.org/00a0a_7PRgmqjiQdS_600x450.jpg",
-                "https://images.craigslist.org/00h0h_1LUYNsYCnHf_600x450.jpg",
-                "https://images.craigslist.org/00B0B_e1taBUasqeb_600x450.jpg",
-                "https://images.craigslist.org/00K0K_ahnk59Yphxl_600x450.jpg"
-            ],
-            "text": "\nRun perfect "
-        }
+        "make": "Nissan"
     },
     {
         "price": "$4500",
@@ -880,37 +654,7 @@
         "price": "$3481",
         "title": "2000 Nissan Maxima /119K/LOW MILES",
         "href": "https://charlotte.craigslist.org/ctd/6037838453.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 43,
-            "array": [
-                "https://images.craigslist.org/00B0B_cRf6Ppyy97e_600x450.jpg",
-                "https://images.craigslist.org/00404_cY3vE792lPg_600x450.jpg",
-                "https://images.craigslist.org/00k0k_9vwPbEshGWK_600x450.jpg",
-                "https://images.craigslist.org/00P0P_lpumesSVKzc_600x450.jpg",
-                "https://images.craigslist.org/00202_8r3jyYE1RgL_600x450.jpg",
-                "https://images.craigslist.org/00R0R_8uT1nilV0u_600x450.jpg",
-                "https://images.craigslist.org/00909_blFDSJAAhjr_600x450.jpg",
-                "https://images.craigslist.org/00N0N_dWzf2X01nRh_600x450.jpg",
-                "https://images.craigslist.org/00f0f_7Z0Zkx4YmSM_600x450.jpg",
-                "https://images.craigslist.org/01414_j5CJ6LZpmfc_600x450.jpg",
-                "https://images.craigslist.org/00v0v_h0RsqpbAZUt_600x450.jpg",
-                "https://images.craigslist.org/00L0L_b0KrXqoZhdE_600x450.jpg",
-                "https://images.craigslist.org/01616_dRIQe66arPt_600x450.jpg",
-                "https://images.craigslist.org/00R0R_2c4tLICM6F9_600x450.jpg",
-                "https://images.craigslist.org/00H0H_lhSBV2pkXQ5_600x450.jpg",
-                "https://images.craigslist.org/00B0B_8aMtiF771nz_600x450.jpg",
-                "https://images.craigslist.org/00W0W_4LtZRdvV5gt_600x450.jpg",
-                "https://images.craigslist.org/00U0U_ct07bjXJ5If_600x450.jpg",
-                "https://images.craigslist.org/01111_dauFnT4rRRj_600x450.jpg",
-                "https://images.craigslist.org/00U0U_hsQnc9velAC_600x450.jpg",
-                "https://images.craigslist.org/00i0i_4bELlSp5Iqp_600x450.jpg",
-                "https://images.craigslist.org/00P0P_bUq3BcyIOyH_600x450.jpg",
-                "https://images.craigslist.org/00d0d_iD4ZOqV8UKi_600x450.jpg",
-                "https://images.craigslist.org/00p0p_fsznL3zQgJn_600x450.jpg"
-            ],
-            "text": "\n2000 Nissan Maxima SE 4dr Sedan, 119,321"
-        }
+        "make": "Nissan"
     },
     {
         "price": "$3100",
@@ -961,55 +705,12 @@
         "price": "$4995",
         "title": "2008 Nissan Maxima LOW MILES!!! EXTRA CLEAN!!!",
         "href": "https://charlotte.craigslist.org/ctd/6032227068.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 46,
-            "array": [
-                "https://images.craigslist.org/00P0P_2I4uzMMMJ2f_600x450.jpg",
-                "https://images.craigslist.org/00f0f_3f6iMXzLsJX_600x450.jpg",
-                "https://images.craigslist.org/00V0V_adFu5RwfGe3_600x450.jpg",
-                "https://images.craigslist.org/00c0c_hXj4iXw6pg0_600x450.jpg",
-                "https://images.craigslist.org/00E0E_e76A04RyZrM_600x450.jpg",
-                "https://images.craigslist.org/00J0J_cyTyn9UVv7N_600x450.jpg",
-                "https://images.craigslist.org/00A0A_6xSWLPwqASj_600x450.jpg",
-                "https://images.craigslist.org/00101_5uR9kvXeBJI_600x450.jpg",
-                "https://images.craigslist.org/00J0J_8wp0wrbhOek_600x450.jpg",
-                "https://images.craigslist.org/00E0E_dj7NcJuwSvV_600x450.jpg",
-                "https://images.craigslist.org/01010_3B5YVSwWT8t_600x450.jpg",
-                "https://images.craigslist.org/00000_1WdqnUBYOfX_600x450.jpg",
-                "https://images.craigslist.org/00t0t_glTZkICRvFj_600x450.jpg",
-                "https://images.craigslist.org/01111_9b0xdE5QUHk_600x450.jpg",
-                "https://images.craigslist.org/00M0M_6XoIFk6AQyD_600x450.jpg",
-                "https://images.craigslist.org/00000_amHTNHjUexu_600x450.jpg",
-                "https://images.craigslist.org/00A0A_ixrc23qzIU5_600x450.jpg",
-                "https://images.craigslist.org/00Y0Y_hMG5TWaAPQh_600x450.jpg",
-                "https://images.craigslist.org/00303_1xvAlR0JdrM_600x450.jpg",
-                "https://images.craigslist.org/00J0J_iFh3VfEJsN2_600x450.jpg",
-                "https://images.craigslist.org/00h0h_86djHWGr7a9_600x450.jpg"
-            ],
-            "text": "\nDealership Information"
-        }
+        "make": "Nissan"
     },
     {
         "price": "$5000",
         "title": "2010 Nissan Altima 2.5 S CVT Coupe",
         "href": "https://charlotte.craigslist.org/ctd/6030603567.html",
-        "make": "Nissan",
-        "pics": {
-            "index": 47,
-            "array": [
-                "https://images.craigslist.org/00R0R_cLWdQxfeUOZ_600x450.jpg",
-                "https://images.craigslist.org/00e0e_agutZw9QwKP_600x450.jpg",
-                "https://images.craigslist.org/01414_1nVYHh69V80_600x450.jpg",
-                "https://images.craigslist.org/00B0B_ijufZ7rI2DX_600x450.jpg",
-                "https://images.craigslist.org/00k0k_2lHcWo7dlAu_600x450.jpg",
-                "https://images.craigslist.org/00t0t_bOgIpejFCVH_600x450.jpg",
-                "https://images.craigslist.org/00D0D_5rcMNbR9Bkw_600x450.jpg",
-                "https://images.craigslist.org/00M0M_6uvnl9jPHAk_600x450.jpg",
-                "https://images.craigslist.org/00K0K_kGTbQ1xhqPC_600x450.jpg",
-                "https://images.craigslist.org/00D0D_il9W1YYVbKI_600x450.jpg"
-            ],
-            "text": "\n"
-        }
+        "make": "Nissan"
     }
 ]
