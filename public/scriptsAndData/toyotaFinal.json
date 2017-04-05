@@ -1,11 +1,30 @@
 [
     {
+        "price": "$4900",
+        "title": "2006 Toyota Camry",
+        "href": "https://charlotte.craigslist.org/cto/6074413390.html",
+        "make": "Toyota",
+        "pics": {
+            "index": 0,
+            "array": [
+                "https://images.craigslist.org/00X0X_fagD5CgtpR9_600x450.jpg",
+                "https://images.craigslist.org/00a0a_63hUQgmKj0R_600x450.jpg",
+                "https://images.craigslist.org/00707_dXedPgXaVo1_600x450.jpg",
+                "https://images.craigslist.org/00m0m_6O66CGjf9Je_600x450.jpg",
+                "https://images.craigslist.org/01717_lld2s6a0VHm_600x450.jpg",
+                "https://images.craigslist.org/00505_fpKfMoRzyp0_600x450.jpg",
+                "https://images.craigslist.org/00n0n_fyj0y6vNX7A_600x450.jpg"
+            ],
+            "text": "\nNice car,very clean, very strong,"
+        }
+    },
+    {
         "price": "$4950",
         "title": "2008 Toyota Prius, 138k miles, very clean",
         "href": "https://charlotte.craigslist.org/cto/6070144868.html",
         "make": "Toyota",
         "pics": {
-            "index": 0,
+            "index": 1,
             "array": [
                 "https://images.craigslist.org/00P0P_knJr6FU4JGv_600x450.jpg",
                 "https://images.craigslist.org/00Z0Z_gF22EThMIQ_600x450.jpg",
@@ -34,7 +53,7 @@
         "href": "https://charlotte.craigslist.org/cto/6043946334.html",
         "make": "Toyota",
         "pics": {
-            "index": 1,
+            "index": 2,
             "array": [
                 "https://images.craigslist.org/00b0b_855WpnRA1ru_600x450.jpg",
                 "https://images.craigslist.org/00h0h_kKcIQ2QeVR4_600x450.jpg",
@@ -64,7 +83,7 @@
         "href": "https://charlotte.craigslist.org/cto/6074069273.html",
         "make": "Toyota",
         "pics": {
-            "index": 2,
+            "index": 3,
             "array": [
                 "https://images.craigslist.org/00I0I_hFgUXe7Psqv_600x450.jpg",
                 "https://images.craigslist.org/01515_6zEzbsUq7WW_600x450.jpg",
@@ -80,7 +99,7 @@
         "href": "https://charlotte.craigslist.org/cto/6062513576.html",
         "make": "Toyota",
         "pics": {
-            "index": 3,
+            "index": 4,
             "array": [
                 "https://images.craigslist.org/00N0N_bySHHi5zput_600x450.jpg",
                 "https://images.craigslist.org/00G0G_bwNnaJxC4Dq_600x450.jpg",
@@ -104,7 +123,7 @@
         "href": "https://charlotte.craigslist.org/cto/6038338272.html",
         "make": "Toyota",
         "pics": {
-            "index": 4,
+            "index": 5,
             "array": [
                 "https://images.craigslist.org/00P0P_DuPIeRR1PM_600x450.jpg",
                 "https://images.craigslist.org/00K0K_e5u3Vqs413U_600x450.jpg",
@@ -132,7 +151,7 @@
         "href": "https://hickory.craigslist.org/cto/6043882692.html",
         "make": "Toyota",
         "pics": {
-            "index": 5,
+            "index": 6,
             "array": [
                 "https://images.craigslist.org/00t0t_5gJRhnUlAop_600x450.jpg",
                 "https://images.craigslist.org/00v0v_h4tCZqw8k8x_600x450.jpg",
@@ -165,23 +184,6 @@
         "title": "2003 Toyota Camry LE, low miles!",
         "href": "https://charlotte.craigslist.org/cto/6073307999.html",
         "make": "Toyota"
-    },
-    {
-        "price": "$4750",
-        "title": "2008 Toyota Yaris",
-        "href": "https://charlotte.craigslist.org/cto/6073105210.html",
-        "make": "Toyota",
-        "pics": {
-            "index": 7,
-            "array": [
-                "https://images.craigslist.org/00O0O_6KM3VbKNXWC_600x450.jpg",
-                "https://images.craigslist.org/01717_1LoWkZt2ElZ_600x450.jpg",
-                "https://images.craigslist.org/00I0I_6ZstXBC6wCv_600x450.jpg",
-                "https://images.craigslist.org/00E0E_7Imcj3MxCf1_600x450.jpg",
-                "https://images.craigslist.org/00Z0Z_kV2ylYH73i6_600x450.jpg"
-            ],
-            "text": "\nHatchback, 5 speed, base model, AC, power windows, clean title, 42 highway 32 city miles per gallon, back seats fold down."
-        }
     },
     {
         "price": "$4970",
@@ -273,35 +275,12 @@
         }
     },
     {
-        "price": "$3550",
-        "title": "Toyota Corolla CE 2005 Excellent Condition",
-        "href": "https://charlotte.craigslist.org/cto/6066400089.html",
-        "make": "Toyota",
-        "pics": {
-            "index": 12,
-            "array": [
-                "https://images.craigslist.org/00E0E_2cwykJ0WSek_600x450.jpg",
-                "https://images.craigslist.org/00A0A_4KKXol5W2gq_600x450.jpg",
-                "https://images.craigslist.org/00Y0Y_6R20Is3e8mf_600x450.jpg",
-                "https://images.craigslist.org/00U0U_6BJA9a82ct7_600x450.jpg",
-                "https://images.craigslist.org/00F0F_9ml0dwO4cCd_600x450.jpg",
-                "https://images.craigslist.org/00B0B_fqEpDhXSB2w_600x450.jpg",
-                "https://images.craigslist.org/00L0L_3siUbFQOL90_600x450.jpg",
-                "https://images.craigslist.org/01111_e4blNpoP1Qv_600x450.jpg",
-                "https://images.craigslist.org/00V0V_kgKToa41KdS_600x450.jpg",
-                "https://images.craigslist.org/01414_3xIAkpiu61Y_600x450.jpg",
-                "https://images.craigslist.org/00U0U_iR2fVmJ9QlL_600x450.jpg"
-            ],
-            "text": "\nI have a 2005 Toyota Corolla CE in Excellent condition inside and  out. This car runs and drives like a brand new car , loaded with all power options. The Body And Interior are in great shape and will Make someone a great Daily driver . Clear Title and Carfax , no accident history.   "
-        }
-    },
-    {
         "price": "$4400",
         "title": "2007 Toyota Matrix",
         "href": "https://charlotte.craigslist.org/cto/6069293081.html",
         "make": "Toyota",
         "pics": {
-            "index": 13,
+            "index": 12,
             "array": [
                 "https://images.craigslist.org/00W0W_1vSrgvfz6Q_600x450.jpg",
                 "https://images.craigslist.org/00Z0Z_3NbUxNa1hN5_600x450.jpg",
@@ -322,7 +301,7 @@
         "href": "https://charlotte.craigslist.org/cto/6065200378.html",
         "make": "Toyota",
         "pics": {
-            "index": 14,
+            "index": 13,
             "array": [
                 "https://images.craigslist.org/00101_4PsLsgf8xrD_600x450.jpg",
                 "https://images.craigslist.org/00h0h_csDamO4uVtb_600x450.jpg",
@@ -352,7 +331,7 @@
         "href": "https://charlotte.craigslist.org/cto/6063862360.html",
         "make": "Toyota",
         "pics": {
-            "index": 15,
+            "index": 14,
             "array": [
                 "https://images.craigslist.org/00Y0Y_1vjg06tjrH2_600x450.jpg",
                 "https://images.craigslist.org/00s0s_2svibUxNKCn_600x450.jpg",
@@ -369,7 +348,7 @@
         "href": "https://charlotte.craigslist.org/cto/6070141061.html",
         "make": "Toyota",
         "pics": {
-            "index": 16,
+            "index": 15,
             "array": [
                 "https://images.craigslist.org/00e0e_91IuFYkYyxY_600x450.jpg",
                 "https://images.craigslist.org/00b0b_37K69ueFoyI_600x450.jpg",
@@ -392,7 +371,7 @@
         "href": "https://charlotte.craigslist.org/ctd/6069891589.html",
         "make": "Toyota",
         "pics": {
-            "index": 17,
+            "index": 16,
             "array": [
                 "https://images.craigslist.org/00q0q_eL6FUDYV6OB_600x450.jpg",
                 "https://images.craigslist.org/01717_E76v49K1QQ_600x450.jpg",
@@ -413,7 +392,7 @@
         "href": "https://charlotte.craigslist.org/cto/6069391545.html",
         "make": "Toyota",
         "pics": {
-            "index": 18,
+            "index": 17,
             "array": [
                 "https://images.craigslist.org/00Y0Y_lJyRk6ksQh4_600x450.jpg",
                 "https://images.craigslist.org/00F0F_f3y3cHviHSf_600x450.jpg",
@@ -431,7 +410,7 @@
         "href": "https://charlotte.craigslist.org/cto/6069294082.html",
         "make": "Toyota",
         "pics": {
-            "index": 19,
+            "index": 18,
             "array": [
                 "https://images.craigslist.org/00c0c_8vLekltxK60_600x450.jpg"
             ],
@@ -444,7 +423,7 @@
         "href": "https://charlotte.craigslist.org/cto/6025738660.html",
         "make": "Toyota",
         "pics": {
-            "index": 20,
+            "index": 19,
             "array": [
                 "https://images.craigslist.org/01414_4wd2Z292q1j_600x450.jpg",
                 "https://images.craigslist.org/01313_8fzMpoI8M2g_600x450.jpg",
@@ -466,7 +445,7 @@
         "href": "https://charlotte.craigslist.org/cto/6067102892.html",
         "make": "Toyota",
         "pics": {
-            "index": 21,
+            "index": 20,
             "array": [
                 "https://images.craigslist.org/00v0v_h5pmxeRq6nw_600x450.jpg",
                 "https://images.craigslist.org/00C0C_cDfNoZowfyg_600x450.jpg",
@@ -489,7 +468,7 @@
         "href": "https://charlotte.craigslist.org/cto/6066639916.html",
         "make": "Toyota",
         "pics": {
-            "index": 22,
+            "index": 21,
             "array": [
                 "https://images.craigslist.org/00a0a_agaPF1PJcKw_600x450.jpg",
                 "https://images.craigslist.org/01111_5R5yqb3OK9F_600x450.jpg"
@@ -503,7 +482,7 @@
         "href": "https://charlotte.craigslist.org/cto/6066060153.html",
         "make": "Toyota",
         "pics": {
-            "index": 23,
+            "index": 22,
             "array": [
                 "https://images.craigslist.org/00k0k_Q2SQ9GwmzP_600x450.jpg",
                 "https://images.craigslist.org/00O0O_aTZC0lIs0cN_600x450.jpg",
@@ -518,7 +497,7 @@
         "href": "https://charlotte.craigslist.org/ctd/6064989261.html",
         "make": "Toyota",
         "pics": {
-            "index": 24,
+            "index": 23,
             "array": [
                 "https://images.craigslist.org/00J0J_h4vVsO1G4wx_600x450.jpg",
                 "https://images.craigslist.org/01212_zyQ19x5WiI_600x450.jpg",
@@ -553,7 +532,7 @@
         "href": "https://charlotte.craigslist.org/ctd/6064220410.html",
         "make": "Toyota",
         "pics": {
-            "index": 25,
+            "index": 24,
             "array": [
                 "https://images.craigslist.org/00D0D_bitipYlGG5K_600x450.jpg",
                 "https://images.craigslist.org/00r0r_8ClOwvdD4Zg_600x450.jpg",
@@ -572,7 +551,7 @@
         "href": "https://charlotte.craigslist.org/ctd/6060904988.html",
         "make": "Toyota",
         "pics": {
-            "index": 26,
+            "index": 25,
             "array": [
                 "https://images.craigslist.org/01717_8m5mKtBZsFG_600x450.jpg",
                 "https://images.craigslist.org/00p0p_9rOYfri6u15_600x450.jpg",
@@ -603,7 +582,7 @@
         "href": "https://charlotte.craigslist.org/cto/6057356441.html",
         "make": "Toyota",
         "pics": {
-            "index": 27,
+            "index": 26,
             "array": [
                 "https://images.craigslist.org/01717_iyjLHjIPlyf_600x450.jpg",
                 "https://images.craigslist.org/00p0p_fbsAltQav5S_600x450.jpg",
@@ -618,7 +597,7 @@
         "href": "https://charlotte.craigslist.org/cto/6048459083.html",
         "make": "Toyota",
         "pics": {
-            "index": 28,
+            "index": 27,
             "array": [
                 "https://images.craigslist.org/00a0a_cTXTebzC7hl_600x450.jpg",
                 "https://images.craigslist.org/01111_f083P8MKuWY_600x450.jpg",
@@ -646,7 +625,7 @@
         "href": "https://charlotte.craigslist.org/cto/6046783036.html",
         "make": "Toyota",
         "pics": {
-            "index": 29,
+            "index": 28,
             "array": [
                 "https://images.craigslist.org/01717_l8296eLECu_600x450.jpg",
                 "https://images.craigslist.org/00y0y_4IRcVWX8Ent_600x450.jpg",
@@ -662,7 +641,7 @@
         "href": "https://charlotte.craigslist.org/cto/6045343891.html",
         "make": "Toyota",
         "pics": {
-            "index": 30,
+            "index": 29,
             "array": [
                 "https://images.craigslist.org/01414_ftMaoP7e8h6_600x450.jpg",
                 "https://images.craigslist.org/00I0I_dcBXxmyJW60_600x450.jpg",
@@ -680,7 +659,7 @@
         "href": "https://charlotte.craigslist.org/cto/6044065127.html",
         "make": "Toyota",
         "pics": {
-            "index": 31,
+            "index": 30,
             "array": [
                 "https://images.craigslist.org/00d0d_8kObCHtVqSN_600x450.jpg",
                 "https://images.craigslist.org/00A0A_iPof9cw6JfE_600x450.jpg"
@@ -694,7 +673,7 @@
         "href": "https://charlotte.craigslist.org/cto/6006084724.html",
         "make": "Toyota",
         "pics": {
-            "index": 32,
+            "index": 31,
             "array": [
                 "https://images.craigslist.org/00O0O_7WriWDWnSpL_600x450.jpg",
                 "https://images.craigslist.org/00l0l_aK5UCovxmUl_600x450.jpg",
@@ -713,7 +692,7 @@
         "href": "https://charlotte.craigslist.org/cto/6035817915.html",
         "make": "Toyota",
         "pics": {
-            "index": 33,
+            "index": 32,
             "array": [
                 "https://images.craigslist.org/00D0D_gcAHCULJHjm_600x450.jpg",
                 "https://images.craigslist.org/00J0J_atwXGTQLUON_600x450.jpg",

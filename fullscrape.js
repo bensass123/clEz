@@ -178,11 +178,11 @@ fixImgs = () => {
 }
 
 function createFile(){
+	
 		fs.appendFile(make + 'Final.json', JSON.stringify(jsonArray, null, 4), function(err){
-
 		    console.log(make + ' File successfully written! - Check your project directory for the output file');
-
 		});
+
 		console.log('createfilerun');
 		console.log('cars found:')
 		console.log(jsonArray.length)
