@@ -1,21 +1,194 @@
 [
     {
-        "price": "$4900",
-        "title": "2006 Toyota Camry",
-        "href": "https://charlotte.craigslist.org/cto/6074413390.html",
+        "price": "$4970",
+        "title": "2006 TOYOTA COROLLA LE",
+        "href": "https://charlotte.craigslist.org/cto/6061344109.html",
         "make": "Toyota",
         "pics": {
             "index": 0,
             "array": [
-                "https://images.craigslist.org/00X0X_fagD5CgtpR9_600x450.jpg",
-                "https://images.craigslist.org/00a0a_63hUQgmKj0R_600x450.jpg",
-                "https://images.craigslist.org/00707_dXedPgXaVo1_600x450.jpg",
-                "https://images.craigslist.org/00m0m_6O66CGjf9Je_600x450.jpg",
-                "https://images.craigslist.org/01717_lld2s6a0VHm_600x450.jpg",
-                "https://images.craigslist.org/00505_fpKfMoRzyp0_600x450.jpg",
-                "https://images.craigslist.org/00n0n_fyj0y6vNX7A_600x450.jpg"
+                "https://images.craigslist.org/00505_7jOjyiRnVlQ_600x450.jpg",
+                "https://images.craigslist.org/00101_9m0qXOTFo0y_600x450.jpg",
+                "https://images.craigslist.org/00e0e_ecRXMIio9Yy_600x450.jpg",
+                "https://images.craigslist.org/00S0S_h3tLuwJEIxX_600x450.jpg",
+                "https://images.craigslist.org/00q0q_5zm2bM1H1EQ_600x450.jpg"
             ],
-            "text": "\nNice car,very clean, very strong,"
+            "text": "\nRuns excellent, no problems at all, very clean engine no leaks or anything"
+        }
+    },
+    {
+        "price": "$4900",
+        "title": "2003 TOYOTA CAMRY LE LEATHER SEAT",
+        "href": "https://charlotte.craigslist.org/cto/6065200378.html",
+        "make": "Toyota",
+        "pics": {
+            "index": 1,
+            "array": [
+                "https://images.craigslist.org/00101_4PsLsgf8xrD_600x450.jpg",
+                "https://images.craigslist.org/00h0h_csDamO4uVtb_600x450.jpg",
+                "https://images.craigslist.org/00w0w_kf5BFrHKNGc_600x450.jpg",
+                "https://images.craigslist.org/00B0B_2biSXOOfxa6_600x450.jpg",
+                "https://images.craigslist.org/00101_8ZZNBXc4ul9_600x450.jpg",
+                "https://images.craigslist.org/01616_4QRU5U765Wi_600x450.jpg",
+                "https://images.craigslist.org/00z0z_8zzwU4ulxAR_600x450.jpg",
+                "https://images.craigslist.org/00y0y_5aGxkNv3kxD_600x450.jpg",
+                "https://images.craigslist.org/00l0l_ifFOnTEZYRE_600x450.jpg",
+                "https://images.craigslist.org/01010_d9UhwvJ3Tuk_600x450.jpg",
+                "https://images.craigslist.org/01111_iGAaopuPC4s_600x450.jpg",
+                "https://images.craigslist.org/00W0W_2X47NnmhNk7_600x450.jpg",
+                "https://images.craigslist.org/01515_9aeo56HjKJ0_600x450.jpg",
+                "https://images.craigslist.org/00707_kdTQB0gRImy_600x450.jpg",
+                "https://images.craigslist.org/00h0h_1J1KKwmQM1z_600x450.jpg",
+                "https://images.craigslist.org/00303_8jl6ZSe2n9A_600x450.jpg",
+                "https://images.craigslist.org/00101_lvhRDcCGbuO_600x450.jpg",
+                "https://images.craigslist.org/00V0V_ei36szz2rvS_600x450.jpg"
+            ],
+            "text": "\n2003 TOYOTA CAMRY LE LEATHER SEAT"
+        }
+    },
+    {
+        "price": "$4500",
+        "title": "1999 Toyota Rav4 4wd, 135k, clean -",
+        "href": "https://charlotte.craigslist.org/cto/6034102128.html",
+        "make": "Toyota",
+        "pics": {
+            "index": 2,
+            "array": [
+                "https://images.craigslist.org/01414_hHb9P3jXAwD_600x450.jpg",
+                "https://images.craigslist.org/01111_7nw2qWwYDps_600x450.jpg",
+                "https://images.craigslist.org/00O0O_f87agoqvy0G_600x450.jpg",
+                "https://images.craigslist.org/00Q0Q_75bEGWvvte_600x450.jpg",
+                "https://images.craigslist.org/00b0b_iHdHPw4QWlB_600x450.jpg",
+                "https://images.craigslist.org/00F0F_hdhYgZuuN7R_600x450.jpg",
+                "https://images.craigslist.org/00p0p_dhYmA2o24bs_600x450.jpg",
+                "https://images.craigslist.org/00c0c_aYU6x4ffDT_600x450.jpg",
+                "https://images.craigslist.org/00S0S_6VkFZQ0awxb_600x450.jpg",
+                "https://images.craigslist.org/01616_j9xMtxbHwXU_600x450.jpg",
+                "https://images.craigslist.org/00a0a_adO74T4uyuJ_600x450.jpg",
+                "https://images.craigslist.org/01717_cjr3zmIujq0_600x450.jpg",
+                "https://images.craigslist.org/00m0m_dDSNHQHz4wB_600x450.jpg",
+                "https://images.craigslist.org/00606_6AlQGI3bVQb_600x450.jpg",
+                "https://images.craigslist.org/00F0F_kXsxeE8PMBO_600x450.jpg"
+            ],
+            "text": "\n1999 Toyota 4wd Rav 4, silver with a dark gray cloth interior. Automatic transmission. All wheel drive. Power windows and sunroof. AC/heat. CD/radio. Everything works. "
+        }
+    },
+    {
+        "price": "$4950",
+        "title": "Scion Toyota 2008 TC Dark Purple :) 121K",
+        "href": "https://charlotte.craigslist.org/cto/6043971819.html",
+        "make": "Toyota",
+        "pics": {
+            "index": 3,
+            "array": [
+                "https://images.craigslist.org/00g0g_cLLQAz02941_600x450.jpg",
+                "https://images.craigslist.org/00O0O_7qHelRF34uG_600x450.jpg",
+                "https://images.craigslist.org/00E0E_dSjfrFL02RU_600x450.jpg",
+                "https://images.craigslist.org/00D0D_7omISmBTaoq_600x450.jpg",
+                "https://images.craigslist.org/00I0I_lvrOvGx40ZJ_600x450.jpg",
+                "https://images.craigslist.org/00e0e_doGf6YlrnDQ_600x450.jpg",
+                "https://images.craigslist.org/00Q0Q_8L7XmTHckHA_600x450.jpg",
+                "https://images.craigslist.org/00q0q_fO4zWCst2KH_600x450.jpg",
+                "https://images.craigslist.org/00Q0Q_dMUIT8Ej4Ku_600x450.jpg",
+                "https://images.craigslist.org/00909_aIqxBCEzYiw_600x450.jpg",
+                "https://images.craigslist.org/00a0a_2pEBhyUpopi_600x450.jpg",
+                "https://images.craigslist.org/00m0m_8AHlOecHv3O_600x450.jpg"
+            ],
+            "text": "\nToyota Scion TC 2008 Dark Purple :) The 2.4-liter engine, with plenty of pulling power, and the five-speed manual delivers crisp, short shifts. Handling and braking are also well above average, inside out car looks excellent! Has features such as ABS Brakes,  Air Conditioning, Alloy Wheels, massive panorama moon roof, Pioneer CD/MP3 player Radio, Automatic Headlights, Cruise Control,Driver Airbag Front Air Dam,Front Side Airbag,Interval Wipers, Key less Entry, Leather Steering Wheel, ,Passenger Airbag,Power Adjustable Exterior Mirror,Power Door Locks,Power Sunroof,Power Windows,Rear Window Defogger,Second Row Folding Seat,Side Head Curtain Airbag,Steering Wheel Mounted Controls, Tachometer,Tilt Steering,Tilt Steering Column,Tire Pressure Monitor,Vehicle Anti-Theft."
+        }
+    },
+    {
+        "price": "$5298",
+        "title": "2010 TOYOTA YARIS",
+        "href": "https://hickory.craigslist.org/cto/6043882692.html",
+        "make": "Toyota",
+        "pics": {
+            "index": 4,
+            "array": [
+                "https://images.craigslist.org/00t0t_5gJRhnUlAop_600x450.jpg",
+                "https://images.craigslist.org/00v0v_h4tCZqw8k8x_600x450.jpg",
+                "https://images.craigslist.org/00V0V_joe9zvWmZGy_600x450.jpg",
+                "https://images.craigslist.org/00r0r_kQdc0G7pOVK_600x450.jpg",
+                "https://images.craigslist.org/01313_7RBLqVm2K2U_600x450.jpg",
+                "https://images.craigslist.org/00303_8AJFNpR2hEi_600x450.jpg",
+                "https://images.craigslist.org/00B0B_8ChAeFEOeez_600x450.jpg",
+                "https://images.craigslist.org/00G0G_47abGu9UJFH_600x450.jpg",
+                "https://images.craigslist.org/00R0R_eRMFb7mwFZ_600x450.jpg",
+                "https://images.craigslist.org/01616_cKJXxUO1GVy_600x450.jpg",
+                "https://images.craigslist.org/00303_5Li2hZiEiFD_600x450.jpg",
+                "https://images.craigslist.org/00P0P_kPEygxnjtt5_600x450.jpg",
+                "https://images.craigslist.org/00B0B_8QTxWuxoqAi_600x450.jpg",
+                "https://images.craigslist.org/00u0u_7Rptxm4nqBi_600x450.jpg",
+                "https://images.craigslist.org/00z0z_4b7AVvyjGw4_600x450.jpg",
+                "https://images.craigslist.org/00A0A_8ALwn8cnBkK_600x450.jpg",
+                "https://images.craigslist.org/00202_8qTnmfpm87c_600x450.jpg",
+                "https://images.craigslist.org/00q0q_kniDs5rYf0z_600x450.jpg",
+                "https://images.craigslist.org/00H0H_bnYC4BOvwQM_600x450.jpg",
+                "https://images.craigslist.org/00808_gV0sDbzTQhF_600x450.jpg",
+                "https://images.craigslist.org/00E0E_dL1uYhrGJ48_600x450.jpg",
+                "https://images.craigslist.org/00404_aXwvJEQZtBK_600x450.jpg"
+            ],
+            "text": "\nVERY CLEAN CAR THAT GETS GREAT GAS MILAGE!!!!!!! 2010 TOYOTA YARIS WITH 137,035 MILES, 4CYL ENGINE, AUTOMATIC TRANSMISSION, PWR DOORS, PWR WINDOWS, PWR MIRRORS, PWR STEERING, AM/FM-CD PLAYER, AC AND MUCH MORE!!!!!! GREAT CAR FOR THE MONEY!!!!! RUNS AND DRIVES GREAT WITH NO ISSUES. IN STATESVILLE NC.    "
+        }
+    },
+    {
+        "price": "$4000",
+        "title": "2004 Toyota Prius",
+        "href": "https://charlotte.craigslist.org/cto/6072818720.html",
+        "make": "Toyota",
+        "pics": {
+            "index": 5,
+            "array": [
+                "https://images.craigslist.org/01515_bvExHLeoqpN_600x450.jpg",
+                "https://images.craigslist.org/00404_JfUKwjiB1m_600x450.jpg",
+                "https://images.craigslist.org/01010_7ZVnSbItK9y_600x450.jpg",
+                "https://images.craigslist.org/00K0K_da7NHaAkmr5_600x450.jpg",
+                "https://images.craigslist.org/01313_dXRYdFNZF4o_600x450.jpg",
+                "https://images.craigslist.org/01717_jT77cZDsl9d_600x450.jpg",
+                "https://images.craigslist.org/00O0O_5zrOoZGROE3_600x450.jpg",
+                "https://images.craigslist.org/00m0m_e8xoxXIWNic_600x450.jpg"
+            ],
+            "text": "\n2004 Prius full option very good condition has 170k    "
+        }
+    },
+    {
+        "price": "$3500",
+        "title": "2004 Toyota Corolla",
+        "href": "https://columbia.craigslist.org/cto/6076068554.html",
+        "make": "Toyota",
+        "pics": {
+            "index": 6,
+            "array": [
+                "https://images.craigslist.org/00606_iudTfZsnImN_600x450.jpg",
+                "https://images.craigslist.org/00e0e_776VdfRkgaX_600x450.jpg",
+                "https://images.craigslist.org/00q0q_cjWhkSoWSbV_600x450.jpg",
+                "https://images.craigslist.org/00j0j_34jOo5kpDJ3_600x450.jpg",
+                "https://images.craigslist.org/01010_lgkmY3iyiMg_600x450.jpg",
+                "https://images.craigslist.org/00Q0Q_goNIzaZsgiQ_600x450.jpg",
+                "https://images.craigslist.org/00202_cUHwIVR1jFZ_600x450.jpg"
+            ],
+            "text": "\n2004 silver Toyota Corolla for sale. 133,000 miles. No mechanical issues, runs great. Some hail damage, left fender and hood have been replaced. Clean interior. AC/Heat work great. text 803-6six9-16zero9    "
+        }
+    },
+    {
+        "price": "$4900",
+        "title": "2006 Mazda 3 S Hatchback Super Reliable Car",
+        "href": "https://hickory.craigslist.org/cto/6072922923.html",
+        "make": "Toyota",
+        "pics": {
+            "index": 7,
+            "array": [
+                "https://images.craigslist.org/00q0q_dQtdDi99XbU_600x450.jpg",
+                "https://images.craigslist.org/00M0M_2AVyAAn67sx_600x450.jpg",
+                "https://images.craigslist.org/00404_j0Q0CwUaNGq_600x450.jpg",
+                "https://images.craigslist.org/00a0a_4hjT7OzFena_600x450.jpg",
+                "https://images.craigslist.org/00Z0Z_zKsvjENamq_600x450.jpg",
+                "https://images.craigslist.org/00N0N_9pCMYNg19vG_600x450.jpg",
+                "https://images.craigslist.org/00M0M_4crM9T4oVmV_600x450.jpg",
+                "https://images.craigslist.org/00u0u_cNesKABh7Uh_600x450.jpg",
+                "https://images.craigslist.org/00z0z_2WIsrhRWxV6_600x450.jpg"
+            ],
+            "text": "\nFor Sale Is My 2006 Mazda 3 S, Only 143k Miles , With The 2.3 I4 Cylinders Motor , automatic trans , Great on Gas 26 mpg+ , Power Windows , Mirrors and Door Locks , And Alloys Wheels , CD/Am/Fm/Built , Ice cold Ac Great Heat , NC Inspected, ready for new owner. Call Or text number me at "
         }
     },
     {
@@ -24,7 +197,7 @@
         "href": "https://charlotte.craigslist.org/cto/6070144868.html",
         "make": "Toyota",
         "pics": {
-            "index": 1,
+            "index": 8,
             "array": [
                 "https://images.craigslist.org/00P0P_knJr6FU4JGv_600x450.jpg",
                 "https://images.craigslist.org/00Z0Z_gF22EThMIQ_600x450.jpg",
@@ -53,7 +226,7 @@
         "href": "https://charlotte.craigslist.org/cto/6043946334.html",
         "make": "Toyota",
         "pics": {
-            "index": 2,
+            "index": 9,
             "array": [
                 "https://images.craigslist.org/00b0b_855WpnRA1ru_600x450.jpg",
                 "https://images.craigslist.org/00h0h_kKcIQ2QeVR4_600x450.jpg",
@@ -83,7 +256,7 @@
         "href": "https://charlotte.craigslist.org/cto/6074069273.html",
         "make": "Toyota",
         "pics": {
-            "index": 3,
+            "index": 10,
             "array": [
                 "https://images.craigslist.org/00I0I_hFgUXe7Psqv_600x450.jpg",
                 "https://images.craigslist.org/01515_6zEzbsUq7WW_600x450.jpg",
@@ -99,7 +272,7 @@
         "href": "https://charlotte.craigslist.org/cto/6062513576.html",
         "make": "Toyota",
         "pics": {
-            "index": 4,
+            "index": 11,
             "array": [
                 "https://images.craigslist.org/00N0N_bySHHi5zput_600x450.jpg",
                 "https://images.craigslist.org/00G0G_bwNnaJxC4Dq_600x450.jpg",
@@ -123,7 +296,7 @@
         "href": "https://charlotte.craigslist.org/cto/6038338272.html",
         "make": "Toyota",
         "pics": {
-            "index": 5,
+            "index": 12,
             "array": [
                 "https://images.craigslist.org/00P0P_DuPIeRR1PM_600x450.jpg",
                 "https://images.craigslist.org/00K0K_e5u3Vqs413U_600x450.jpg",
@@ -146,133 +319,10 @@
         }
     },
     {
-        "price": "$5298",
-        "title": "2010 TOYOTA YARIS",
-        "href": "https://hickory.craigslist.org/cto/6043882692.html",
-        "make": "Toyota",
-        "pics": {
-            "index": 6,
-            "array": [
-                "https://images.craigslist.org/00t0t_5gJRhnUlAop_600x450.jpg",
-                "https://images.craigslist.org/00v0v_h4tCZqw8k8x_600x450.jpg",
-                "https://images.craigslist.org/00V0V_joe9zvWmZGy_600x450.jpg",
-                "https://images.craigslist.org/00r0r_kQdc0G7pOVK_600x450.jpg",
-                "https://images.craigslist.org/01313_7RBLqVm2K2U_600x450.jpg",
-                "https://images.craigslist.org/00303_8AJFNpR2hEi_600x450.jpg",
-                "https://images.craigslist.org/00B0B_8ChAeFEOeez_600x450.jpg",
-                "https://images.craigslist.org/00G0G_47abGu9UJFH_600x450.jpg",
-                "https://images.craigslist.org/00R0R_eRMFb7mwFZ_600x450.jpg",
-                "https://images.craigslist.org/01616_cKJXxUO1GVy_600x450.jpg",
-                "https://images.craigslist.org/00303_5Li2hZiEiFD_600x450.jpg",
-                "https://images.craigslist.org/00P0P_kPEygxnjtt5_600x450.jpg",
-                "https://images.craigslist.org/00B0B_8QTxWuxoqAi_600x450.jpg",
-                "https://images.craigslist.org/00u0u_7Rptxm4nqBi_600x450.jpg",
-                "https://images.craigslist.org/00z0z_4b7AVvyjGw4_600x450.jpg",
-                "https://images.craigslist.org/00A0A_8ALwn8cnBkK_600x450.jpg",
-                "https://images.craigslist.org/00202_8qTnmfpm87c_600x450.jpg",
-                "https://images.craigslist.org/00q0q_kniDs5rYf0z_600x450.jpg",
-                "https://images.craigslist.org/00H0H_bnYC4BOvwQM_600x450.jpg",
-                "https://images.craigslist.org/00808_gV0sDbzTQhF_600x450.jpg",
-                "https://images.craigslist.org/00E0E_dL1uYhrGJ48_600x450.jpg",
-                "https://images.craigslist.org/00404_aXwvJEQZtBK_600x450.jpg"
-            ],
-            "text": "\nVERY CLEAN CAR THAT GETS GREAT GAS MILAGE!!!!!!! 2010 TOYOTA YARIS WITH 137,035 MILES, 4CYL ENGINE, AUTOMATIC TRANSMISSION, PWR DOORS, PWR WINDOWS, PWR MIRRORS, PWR STEERING, AM/FM-CD PLAYER, AC AND MUCH MORE!!!!!! GREAT CAR FOR THE MONEY!!!!! RUNS AND DRIVES GREAT WITH NO ISSUES. IN STATESVILLE NC.    "
-        }
-    },
-    {
         "price": "$3500",
         "title": "2003 Toyota Camry LE, low miles!",
         "href": "https://charlotte.craigslist.org/cto/6073307999.html",
         "make": "Toyota"
-    },
-    {
-        "price": "$4970",
-        "title": "2006 TOYOTA COROLLA LE",
-        "href": "https://charlotte.craigslist.org/cto/6061344109.html",
-        "make": "Toyota",
-        "pics": {
-            "index": 8,
-            "array": [
-                "https://images.craigslist.org/00505_7jOjyiRnVlQ_600x450.jpg",
-                "https://images.craigslist.org/00101_9m0qXOTFo0y_600x450.jpg",
-                "https://images.craigslist.org/00e0e_ecRXMIio9Yy_600x450.jpg",
-                "https://images.craigslist.org/00S0S_h3tLuwJEIxX_600x450.jpg",
-                "https://images.craigslist.org/00q0q_5zm2bM1H1EQ_600x450.jpg"
-            ],
-            "text": "\nRuns excellent, no problems at all, very clean engine no leaks or anything"
-        }
-    },
-    {
-        "price": "$4900",
-        "title": "2006 Mazda 3 S Hatchback Super Reliable Car",
-        "href": "https://hickory.craigslist.org/cto/6072922923.html",
-        "make": "Toyota",
-        "pics": {
-            "index": 9,
-            "array": [
-                "https://images.craigslist.org/00q0q_dQtdDi99XbU_600x450.jpg",
-                "https://images.craigslist.org/00M0M_2AVyAAn67sx_600x450.jpg",
-                "https://images.craigslist.org/00404_j0Q0CwUaNGq_600x450.jpg",
-                "https://images.craigslist.org/00a0a_4hjT7OzFena_600x450.jpg",
-                "https://images.craigslist.org/00Z0Z_zKsvjENamq_600x450.jpg",
-                "https://images.craigslist.org/00N0N_9pCMYNg19vG_600x450.jpg",
-                "https://images.craigslist.org/00M0M_4crM9T4oVmV_600x450.jpg",
-                "https://images.craigslist.org/00u0u_cNesKABh7Uh_600x450.jpg",
-                "https://images.craigslist.org/00z0z_2WIsrhRWxV6_600x450.jpg"
-            ],
-            "text": "\nFor Sale Is My 2006 Mazda 3 S, Only 143k Miles , With The 2.3 I4 Cylinders Motor , automatic trans , Great on Gas 26 mpg+ , Power Windows , Mirrors and Door Locks , And Alloys Wheels , CD/Am/Fm/Built , Ice cold Ac Great Heat , NC Inspected, ready for new owner. Call Or text number me at "
-        }
-    },
-    {
-        "price": "$4500",
-        "title": "1999 Toyota Rav4 4wd, 135k, clean -",
-        "href": "https://charlotte.craigslist.org/cto/6034102128.html",
-        "make": "Toyota",
-        "pics": {
-            "index": 10,
-            "array": [
-                "https://images.craigslist.org/01414_hHb9P3jXAwD_600x450.jpg",
-                "https://images.craigslist.org/01111_7nw2qWwYDps_600x450.jpg",
-                "https://images.craigslist.org/00O0O_f87agoqvy0G_600x450.jpg",
-                "https://images.craigslist.org/00Q0Q_75bEGWvvte_600x450.jpg",
-                "https://images.craigslist.org/00b0b_iHdHPw4QWlB_600x450.jpg",
-                "https://images.craigslist.org/00F0F_hdhYgZuuN7R_600x450.jpg",
-                "https://images.craigslist.org/00p0p_dhYmA2o24bs_600x450.jpg",
-                "https://images.craigslist.org/00c0c_aYU6x4ffDT_600x450.jpg",
-                "https://images.craigslist.org/00S0S_6VkFZQ0awxb_600x450.jpg",
-                "https://images.craigslist.org/01616_j9xMtxbHwXU_600x450.jpg",
-                "https://images.craigslist.org/00a0a_adO74T4uyuJ_600x450.jpg",
-                "https://images.craigslist.org/01717_cjr3zmIujq0_600x450.jpg",
-                "https://images.craigslist.org/00m0m_dDSNHQHz4wB_600x450.jpg",
-                "https://images.craigslist.org/00606_6AlQGI3bVQb_600x450.jpg",
-                "https://images.craigslist.org/00F0F_kXsxeE8PMBO_600x450.jpg"
-            ],
-            "text": "\n1999 Toyota 4wd Rav 4, silver with a dark gray cloth interior. Automatic transmission. All wheel drive. Power windows and sunroof. AC/heat. CD/radio. Everything works. "
-        }
-    },
-    {
-        "price": "$4950",
-        "title": "Scion Toyota 2008 TC Dark Purple :) 121K",
-        "href": "https://charlotte.craigslist.org/cto/6043971819.html",
-        "make": "Toyota",
-        "pics": {
-            "index": 11,
-            "array": [
-                "https://images.craigslist.org/00g0g_cLLQAz02941_600x450.jpg",
-                "https://images.craigslist.org/00O0O_7qHelRF34uG_600x450.jpg",
-                "https://images.craigslist.org/00E0E_dSjfrFL02RU_600x450.jpg",
-                "https://images.craigslist.org/00D0D_7omISmBTaoq_600x450.jpg",
-                "https://images.craigslist.org/00I0I_lvrOvGx40ZJ_600x450.jpg",
-                "https://images.craigslist.org/00e0e_doGf6YlrnDQ_600x450.jpg",
-                "https://images.craigslist.org/00Q0Q_8L7XmTHckHA_600x450.jpg",
-                "https://images.craigslist.org/00q0q_fO4zWCst2KH_600x450.jpg",
-                "https://images.craigslist.org/00Q0Q_dMUIT8Ej4Ku_600x450.jpg",
-                "https://images.craigslist.org/00909_aIqxBCEzYiw_600x450.jpg",
-                "https://images.craigslist.org/00a0a_2pEBhyUpopi_600x450.jpg",
-                "https://images.craigslist.org/00m0m_8AHlOecHv3O_600x450.jpg"
-            ],
-            "text": "\nToyota Scion TC 2008 Dark Purple :) The 2.4-liter engine, with plenty of pulling power, and the five-speed manual delivers crisp, short shifts. Handling and braking are also well above average, inside out car looks excellent! Has features such as ABS Brakes,  Air Conditioning, Alloy Wheels, massive panorama moon roof, Pioneer CD/MP3 player Radio, Automatic Headlights, Cruise Control,Driver Airbag Front Air Dam,Front Side Airbag,Interval Wipers, Key less Entry, Leather Steering Wheel, ,Passenger Airbag,Power Adjustable Exterior Mirror,Power Door Locks,Power Sunroof,Power Windows,Rear Window Defogger,Second Row Folding Seat,Side Head Curtain Airbag,Steering Wheel Mounted Controls, Tachometer,Tilt Steering,Tilt Steering Column,Tire Pressure Monitor,Vehicle Anti-Theft."
-        }
     },
     {
         "price": "$4400",
@@ -280,7 +330,7 @@
         "href": "https://charlotte.craigslist.org/cto/6069293081.html",
         "make": "Toyota",
         "pics": {
-            "index": 12,
+            "index": 14,
             "array": [
                 "https://images.craigslist.org/00W0W_1vSrgvfz6Q_600x450.jpg",
                 "https://images.craigslist.org/00Z0Z_3NbUxNa1hN5_600x450.jpg",
@@ -296,42 +346,12 @@
         }
     },
     {
-        "price": "$4900",
-        "title": "2003 TOYOTA CAMRY LE LEATHER SEAT",
-        "href": "https://charlotte.craigslist.org/cto/6065200378.html",
-        "make": "Toyota",
-        "pics": {
-            "index": 13,
-            "array": [
-                "https://images.craigslist.org/00101_4PsLsgf8xrD_600x450.jpg",
-                "https://images.craigslist.org/00h0h_csDamO4uVtb_600x450.jpg",
-                "https://images.craigslist.org/00w0w_kf5BFrHKNGc_600x450.jpg",
-                "https://images.craigslist.org/00B0B_2biSXOOfxa6_600x450.jpg",
-                "https://images.craigslist.org/00101_8ZZNBXc4ul9_600x450.jpg",
-                "https://images.craigslist.org/01616_4QRU5U765Wi_600x450.jpg",
-                "https://images.craigslist.org/00z0z_8zzwU4ulxAR_600x450.jpg",
-                "https://images.craigslist.org/00y0y_5aGxkNv3kxD_600x450.jpg",
-                "https://images.craigslist.org/00l0l_ifFOnTEZYRE_600x450.jpg",
-                "https://images.craigslist.org/01010_d9UhwvJ3Tuk_600x450.jpg",
-                "https://images.craigslist.org/01111_iGAaopuPC4s_600x450.jpg",
-                "https://images.craigslist.org/00W0W_2X47NnmhNk7_600x450.jpg",
-                "https://images.craigslist.org/01515_9aeo56HjKJ0_600x450.jpg",
-                "https://images.craigslist.org/00707_kdTQB0gRImy_600x450.jpg",
-                "https://images.craigslist.org/00h0h_1J1KKwmQM1z_600x450.jpg",
-                "https://images.craigslist.org/00303_8jl6ZSe2n9A_600x450.jpg",
-                "https://images.craigslist.org/00101_lvhRDcCGbuO_600x450.jpg",
-                "https://images.craigslist.org/00V0V_ei36szz2rvS_600x450.jpg"
-            ],
-            "text": "\n2003 TOYOTA CAMRY LE LEATHER SEAT"
-        }
-    },
-    {
         "price": "$4800",
         "title": "1999 Toyota Camry LE 4 cyl, Automatic",
         "href": "https://charlotte.craigslist.org/cto/6063862360.html",
         "make": "Toyota",
         "pics": {
-            "index": 14,
+            "index": 15,
             "array": [
                 "https://images.craigslist.org/00Y0Y_1vjg06tjrH2_600x450.jpg",
                 "https://images.craigslist.org/00s0s_2svibUxNKCn_600x450.jpg",
@@ -348,7 +368,7 @@
         "href": "https://charlotte.craigslist.org/cto/6070141061.html",
         "make": "Toyota",
         "pics": {
-            "index": 15,
+            "index": 16,
             "array": [
                 "https://images.craigslist.org/00e0e_91IuFYkYyxY_600x450.jpg",
                 "https://images.craigslist.org/00b0b_37K69ueFoyI_600x450.jpg",
@@ -371,7 +391,7 @@
         "href": "https://charlotte.craigslist.org/ctd/6069891589.html",
         "make": "Toyota",
         "pics": {
-            "index": 16,
+            "index": 17,
             "array": [
                 "https://images.craigslist.org/00q0q_eL6FUDYV6OB_600x450.jpg",
                 "https://images.craigslist.org/01717_E76v49K1QQ_600x450.jpg",
@@ -392,7 +412,7 @@
         "href": "https://charlotte.craigslist.org/cto/6069391545.html",
         "make": "Toyota",
         "pics": {
-            "index": 17,
+            "index": 18,
             "array": [
                 "https://images.craigslist.org/00Y0Y_lJyRk6ksQh4_600x450.jpg",
                 "https://images.craigslist.org/00F0F_f3y3cHviHSf_600x450.jpg",
@@ -402,19 +422,6 @@
                 "https://images.craigslist.org/00m0m_cS47R44oZHC_600x450.jpg"
             ],
             "text": "\n2005 TOYOTA COROLLA -LIKE NEW-VERY CLEAN-NO ISSUES"
-        }
-    },
-    {
-        "price": "$4900",
-        "title": "08 Toyota Camry,ONE OWNER,clean CARFAX",
-        "href": "https://charlotte.craigslist.org/cto/6069294082.html",
-        "make": "Toyota",
-        "pics": {
-            "index": 18,
-            "array": [
-                "https://images.craigslist.org/00c0c_8vLekltxK60_600x450.jpg"
-            ],
-            "text": "\nDrive like new "
         }
     },
     {
@@ -620,28 +627,12 @@
         }
     },
     {
-        "price": "$3600",
-        "title": "4cyl 2003 Toyota Camry LE",
-        "href": "https://charlotte.craigslist.org/cto/6046783036.html",
-        "make": "Toyota",
-        "pics": {
-            "index": 28,
-            "array": [
-                "https://images.craigslist.org/01717_l8296eLECu_600x450.jpg",
-                "https://images.craigslist.org/00y0y_4IRcVWX8Ent_600x450.jpg",
-                "https://images.craigslist.org/00w0w_9s1y8fFRDoH_600x450.jpg",
-                "https://images.craigslist.org/00U0U_RZzHbLAAGj_600x450.jpg"
-            ],
-            "text": "\n127,000 miles clean title. Automatic.  Priced to move. The car runs fine. No leaks. No check engine light. Everything works fine.  This low mile option won't last. Call sevenzerofour 493.4309 Evelyn    "
-        }
-    },
-    {
         "price": "$4000",
         "title": "2006 Toyota Corolla",
         "href": "https://charlotte.craigslist.org/cto/6045343891.html",
         "make": "Toyota",
         "pics": {
-            "index": 29,
+            "index": 28,
             "array": [
                 "https://images.craigslist.org/01414_ftMaoP7e8h6_600x450.jpg",
                 "https://images.craigslist.org/00I0I_dcBXxmyJW60_600x450.jpg",
@@ -654,26 +645,12 @@
         }
     },
     {
-        "price": "$3600",
-        "title": "2003 TOYOTA CAMRY LE",
-        "href": "https://charlotte.craigslist.org/cto/6044065127.html",
-        "make": "Toyota",
-        "pics": {
-            "index": 30,
-            "array": [
-                "https://images.craigslist.org/00d0d_8kObCHtVqSN_600x450.jpg",
-                "https://images.craigslist.org/00A0A_iPof9cw6JfE_600x450.jpg"
-            ],
-            "text": "\n127K MILES clean title automatic transmission,  a must see vehicle! clean interior no leaks or issues mechanically."
-        }
-    },
-    {
         "price": "$4900",
         "title": "2006 Toyota Camry solara SLE leather runs nice call make appt.",
         "href": "https://charlotte.craigslist.org/cto/6006084724.html",
         "make": "Toyota",
         "pics": {
-            "index": 31,
+            "index": 29,
             "array": [
                 "https://images.craigslist.org/00O0O_7WriWDWnSpL_600x450.jpg",
                 "https://images.craigslist.org/00l0l_aK5UCovxmUl_600x450.jpg",
@@ -692,7 +669,7 @@
         "href": "https://charlotte.craigslist.org/cto/6035817915.html",
         "make": "Toyota",
         "pics": {
-            "index": 32,
+            "index": 30,
             "array": [
                 "https://images.craigslist.org/00D0D_gcAHCULJHjm_600x450.jpg",
                 "https://images.craigslist.org/00J0J_atwXGTQLUON_600x450.jpg",
